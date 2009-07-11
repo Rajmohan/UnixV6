@@ -1,0 +1,1390 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ACR	dmr/dn.c	23;"	d	file:
+ARDY	dmr/rk.c	23;"	d	file:
+ASLEEP	tty.h	84;"	d
+B1200	dmr/vs.c	13;"	d	file:
+BIENABL	dmr/vt.c	21;"	d	file:
+BITS6	dmr/dh.c	37;"	d	file:
+BITS7	dmr/dh.c	38;"	d	file:
+BITS8	dmr/dh.c	39;"	d	file:
+BLKM	dmr/tc.c	34;"	d	file:
+BLOCK	conf/mkconf.c	2;"	d	file:
+BUSY	dmr/pc.c	23;"	d	file:
+BUSY	tty.h	83;"	d
+B_ASYNC	buf.h	76;"	d
+B_BUSY	buf.h	71;"	d
+B_DELWRI	buf.h	77;"	d
+B_DONE	buf.h	69;"	d
+B_ERROR	buf.h	70;"	d
+B_MAP	buf.h	73;"	d
+B_PHYS	buf.h	72;"	d
+B_READ	buf.h	68;"	d
+B_RELOC	buf.h	75;"	d
+B_WANTED	buf.h	74;"	d
+B_WRITE	buf.h	67;"	d
+CANBSIZ	param.h	14;"	d
+CAP	dmr/lp.c	39;"	d	file:
+CARRIER	dmr/dc.c	29;"	d	file:
+CARRIER	dmr/dhdm.c	22;"	d	file:
+CARRIER	dmr/dp.c	49;"	d	file:
+CARR_ON	tty.h	82;"	d
+CATADDR	dmr/cat.c	13;"	d	file:
+CATHIWAT	dmr/cat.c	15;"	d	file:
+CATLOWAT	dmr/cat.c	16;"	d	file:
+CDLEAD	dmr/dc.c	28;"	d	file:
+CDLEAD	dmr/vs.c	12;"	d	file:
+CEOT	tty.h	49;"	d
+CERASE	tty.h	48;"	d
+CHAR	conf/mkconf.c	/^	-1,	300,	CHAR,$/;"	m	struct:table	file:
+CHAR	conf/mkconf.c	1;"	d	file:
+CINTR	tty.h	52;"	d
+CKILL	tty.h	50;"	d
+CLOCK1	ken/main.c	10;"	d	file:
+CLOCK2	ken/main.c	11;"	d	file:
+CLOSED	dmr/pc.c	15;"	d	file:
+CLR	dmr/hp.c	86;"	d	file:
+CLR	dmr/ht.c	50;"	d	file:
+CLSCAN	dmr/dhdm.c	19;"	d	file:
+CLSEND	dmr/vs.c	15;"	d	file:
+CMAPSIZ	param.h	15;"	d
+CQUIT	tty.h	51;"	d
+CRDELAY	tty.h	70;"	d
+CRDY	dmr/ht.c	54;"	d	file:
+CRDY	dmr/tm.c	42;"	d	file:
+CRMOD	tty.h	64;"	d
+CRQ	dmr/dn.c	31;"	d	file:
+CSW	conf/m45.s	/^CSW	= 177570$/;"	d
+CTLCLR	dmr/rf.c	31;"	d	file:
+CTLRDY	dmr/rk.c	25;"	d	file:
+CTRANS	dmr/dc.c	35;"	d	file:
+CTRANS	dmr/dp.c	45;"	d	file:
+DCADDR	dmr/dc.c	18;"	d	file:
+DCK	dmr/hp.c	83;"	d	file:
+DENS	dmr/tm.c	40;"	d	file:
+DHADDR	dmr/dh.c	19;"	d	file:
+DHNCH	dmr/dh.c	21;"	d	file:
+DIRSIZ	param.h	66;"	d
+DLBASE	dmr/kl.c	17;"	d	file:
+DLO	dmr/dn.c	24;"	d	file:
+DMADDR	dmr/dhdm.c	12;"	d	file:
+DNADDR	dmr/dn.c	20;"	d	file:
+DNPRI	dmr/dn.c	33;"	d	file:
+DONE	dmr/dhdm.c	17;"	d	file:
+DONE	dmr/dn.c	25;"	d	file:
+DONE	dmr/dp.c	50;"	d	file:
+DONE	dmr/lp.c	16;"	d	file:
+DONE	dmr/pc.c	22;"	d	file:
+DONE	tty.h	74;"	d
+DPADDR	dmr/dp.c	60;"	d	file:
+DPPRI	dmr/dp.c	61;"	d	file:
+DPR	dmr/dn.c	30;"	d	file:
+DRESET	dmr/rk.c	20;"	d	file:
+DRY	dmr/hs.c	40;"	d	file:
+DRY	dmr/ht.c	56;"	d	file:
+DRY	dmr/rk.c	22;"	d	file:
+DSRDY	dmr/dp.c	48;"	d	file:
+DSRDY	dmr/kl.c	20;"	d	file:
+DSS	dmr/dn.c	27;"	d	file:
+DTE	dmr/hp.c	80;"	d	file:
+DTRDY	dmr/dp.c	57;"	d	file:
+DU	dmr/hp.c	79;"	d	file:
+E2BIG	user.h	69;"	d
+EACCES	user.h	75;"	d
+EAGAIN	user.h	73;"	d
+EBADF	user.h	71;"	d
+EBIT	ken/trap.c	9;"	d	file:
+EBUSY	user.h	77;"	d
+ECH	dmr/hp.c	84;"	d	file:
+ECHILD	user.h	72;"	d
+ECHO	tty.h	63;"	d
+ED	seg.h	11;"	d
+EEXIST	user.h	78;"	d
+EFAULT	user.h	62;"	d
+EFBIG	user.h	88;"	d
+EINTR	user.h	66;"	d
+EINVAL	user.h	83;"	d
+EIO	user.h	67;"	d
+EISDIR	user.h	82;"	d
+EJECT	dmr/lp.c	40;"	d	file:
+EJLINE	dmr/lp.c	21;"	d	file:
+EMFILE	user.h	85;"	d
+EMLINK	user.h	92;"	d
+ENDZ	dmr/tc.c	33;"	d	file:
+ENFILE	user.h	84;"	d
+ENODEV	user.h	80;"	d
+ENOENT	user.h	64;"	d
+ENOEXEC	user.h	70;"	d
+ENOMEM	user.h	74;"	d
+ENOSPC	user.h	89;"	d
+ENOTBLK	user.h	76;"	d
+ENOTDIR	user.h	81;"	d
+ENOTTY	user.h	86;"	d
+ENXIO	user.h	68;"	d
+EOF	dmr/ht.c	55;"	d	file:
+EOF	dmr/pc.c	18;"	d	file:
+EOF	dmr/tm.c	46;"	d	file:
+EPERM	user.h	63;"	d
+EPIPE	user.h	93;"	d
+ERASE	dmr/ht.c	48;"	d	file:
+EROFS	user.h	91;"	d
+ERR	dmr/hp.c	77;"	d	file:
+ERR	dmr/hs.c	36;"	d	file:
+ERR	dmr/ht.c	59;"	d	file:
+ERROR	dmr/dc.c	34;"	d	file:
+ERROR	dmr/pc.c	24;"	d	file:
+ESPIPE	user.h	90;"	d
+ESRCH	user.h	65;"	d
+ETXTBSY	user.h	87;"	d
+EVEN	conf/mkconf.c	/^	0,	308,	CHAR+INTR+EVEN,$/;"	m	struct:table	file:
+EVEN	conf/mkconf.c	4;"	d	file:
+EVENP	tty.h	67;"	d
+EXDEV	user.h	79;"	d
+EXPRI	ken/sys1.c	22;"	d	file:
+FMT22	dmr/hp.c	88;"	d	file:
+FORM	dmr/lp.c	44;"	d	file:
+FPIPE	file.h	19;"	d
+FREAD	file.h	17;"	d
+FRERROR	dmr/dh.c	48;"	d	file:
+FWRITE	file.h	18;"	d
+GAPSD	dmr/tm.c	43;"	d	file:
+GO	dmr/bio.c	392;"	d	file:
+GO	dmr/hp.c	69;"	d	file:
+GO	dmr/hs.c	38;"	d	file:
+GO	dmr/ht.c	43;"	d	file:
+GO	dmr/rf.c	28;"	d	file:
+GO	dmr/rk.c	19;"	d	file:
+GO	dmr/rp.c	44;"	d	file:
+GO	dmr/tc.c	43;"	d	file:
+GO	dmr/tm.c	32;"	d	file:
+HARD	dmr/tm.c	45;"	d	file:
+HDUPLX	dmr/dh.c	44;"	d	file:
+HDUPLX	dmr/dp.c	43;"	d	file:
+HIGH	conf/m45.s	/^HIGH	= 6$/;"	d
+HIPRI	conf/m45.s	/^HIPRI	= 300$/;"	d
+HNF	dmr/rp.c	54;"	d	file:
+HPADDR	dmr/hp.c	43;"	d	file:
+HSADDR	dmr/hs.c	34;"	d	file:
+HSEEK	dmr/rp.c	46;"	d	file:
+HTADDR	dmr/ht.c	41;"	d	file:
+HUPCL	tty.h	60;"	d
+HZ	param.h	21;"	d
+IACC	inode.h	30;"	d
+IALLOC	ino.h	20;"	d
+IALLOC	inode.h	36;"	d
+IENABLE	dmr/bio.c	389;"	d	file:
+IENABLE	dmr/dh.c	46;"	d	file:
+IENABLE	dmr/dn.c	26;"	d	file:
+IENABLE	dmr/dp.c	42;"	d	file:
+IENABLE	dmr/dp.c	51;"	d	file:
+IENABLE	dmr/ht.c	53;"	d	file:
+IENABLE	dmr/lp.c	15;"	d	file:
+IENABLE	dmr/pc.c	21;"	d	file:
+IENABLE	dmr/rf.c	32;"	d	file:
+IENABLE	dmr/rk.c	21;"	d	file:
+IENABLE	dmr/rp.c	48;"	d	file:
+IENABLE	dmr/tc.c	31;"	d	file:
+IENABLE	dmr/tm.c	41;"	d	file:
+IENABLE	tty.h	75;"	d
+IEXEC	ino.h	31;"	d
+IEXEC	inode.h	47;"	d
+IFBLK	ino.h	24;"	d
+IFBLK	inode.h	40;"	d
+IFCHR	ino.h	23;"	d
+IFCHR	inode.h	39;"	d
+IFDIR	ino.h	22;"	d
+IFDIR	inode.h	38;"	d
+IFMT	ino.h	21;"	d
+IFMT	inode.h	37;"	d
+ILARG	ino.h	25;"	d
+ILARG	inode.h	41;"	d
+ILGOP	dmr/tc.c	35;"	d	file:
+ILOCK	inode.h	28;"	d
+IMOUNT	inode.h	31;"	d
+IND	dmr/lp.c	42;"	d	file:
+INTR	conf/mkconf.c	/^	-1,	114,	INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	-2,	100,	INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	200,	CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	204,	BLOCK+CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	214,	BLOCK+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	220,	BLOCK+CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	224,	BLOCK+CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	230,	CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	254,	BLOCK+CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	304,	CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	304,	INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	308,	CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	/^	0,	70,	CHAR+INTR,$/;"	m	struct:table	file:
+INTR	conf/mkconf.c	3;"	d	file:
+IO	conf/m40.s	/^IO	= 7600$/;"	d
+IO	conf/m45.s	/^IO	= 177600$/;"	d
+IPCPRI	ken/sig.c	15;"	d	file:
+IREAD	ino.h	29;"	d
+IREAD	inode.h	45;"	d
+ISGID	ino.h	27;"	d
+ISGID	inode.h	43;"	d
+ISOPEN	tty.h	80;"	d
+ISUID	ino.h	26;"	d
+ISUID	inode.h	42;"	d
+ISVTX	ino.h	28;"	d
+ISVTX	inode.h	44;"	d
+ITEXT	inode.h	33;"	d
+IUPD	inode.h	29;"	d
+IWANT	inode.h	32;"	d
+IWRITE	ino.h	30;"	d
+IWRITE	inode.h	46;"	d
+KDSA0	conf/m45.s	/^KDSA0	= 172360$/;"	d
+KDSA6	conf/m45.s	/^KDSA6	= 172374$/;"	d
+KDSA7	conf/m45.s	/^KDSA7	= 172376$/;"	d
+KDSD0	conf/m45.s	/^KDSD0	= 172320$/;"	d
+KISA0	conf/m40.s	/^KISA0	= 172340$/;"	d
+KISA0	conf/m45.s	/^KISA0	= 172340$/;"	d
+KISA1	conf/m45.s	/^KISA1	= 172342$/;"	d
+KISA6	conf/m40.s	/^KISA6	= 172354$/;"	d
+KISA7	conf/m45.s	/^KISA7	= 172356$/;"	d
+KISD0	conf/m40.s	/^KISD0	= 172300$/;"	d
+KISD0	conf/m45.s	/^KISD0	= 172300$/;"	d
+KL	conf/mkconf.c	/^	-1,	60,	CHAR+INTR+KL,$/;"	m	struct:table	file:
+KL	conf/mkconf.c	/^	0,	308,	INTR+KL,$/;"	m	struct:table	file:
+KL	conf/mkconf.c	5;"	d	file:
+KL	param.h	90;"	d
+KLADDR	dmr/kl.c	15;"	d	file:
+KLBASE	dmr/kl.c	16;"	d	file:
+LCASE	tty.h	62;"	d
+LPADDR	dmr/lp.c	13;"	d	file:
+LPHWAT	dmr/lp.c	20;"	d	file:
+LPLWAT	dmr/lp.c	19;"	d	file:
+LPPRI	dmr/lp.c	18;"	d	file:
+MAGIC_MAP	dmr/vs.c	18;"	d	file:
+MAXCOL	dmr/lp.c	22;"	d	file:
+MAXMEM	param.h	10;"	d
+MENABLE	dmr/dn.c	29;"	d	file:
+MOL	dmr/ht.c	57;"	d	file:
+MTC	conf/m40.s	/^MTC	= 172522$/;"	d
+MTC	conf/m45.s	/^MTC	= 172522$/;"	d
+NBUF	param.h	5;"	d
+NCALL	param.h	17;"	d
+NCLIST	param.h	20;"	d
+NDC11	dmr/dc.c	23;"	d	file:
+NDH11	dmr/dh.c	/^int	ndh11	NDH11;$/;"	v
+NDH11	dmr/dh.c	20;"	d	file:
+NDL11	dmr/kl.c	19;"	d	file:
+NEXEC	param.h	9;"	d
+NFILE	param.h	7;"	d
+NHP	dmr/hp.c	44;"	d	file:
+NINODE	param.h	6;"	d
+NKL11	dmr/kl.c	18;"	d	file:
+NLDELAY	tty.h	68;"	d
+NMOUNT	param.h	8;"	d
+NODEV	param.h	64;"	d
+NOFILE	param.h	13;"	d
+NOP	dmr/ht.c	44;"	d	file:
+NPROC	param.h	18;"	d
+NRFBLK	dmr/rf.c	25;"	d	file:
+NRK	dmr/rk.c	15;"	d	file:
+NRKBLK	dmr/rk.c	16;"	d	file:
+NRP	dmr/rp.c	25;"	d	file:
+NSIG	param.h	42;"	d
+NTCBLK	dmr/tc.c	26;"	d	file:
+NTEXT	param.h	19;"	d
+NULL	param.h	63;"	d
+NUNIT	dmr/ht.c	35;"	d	file:
+ODDP	tty.h	66;"	d
+ODDPAR	dmr/dp.c	41;"	d	file:
+OFFSET	dmr/hp.c	73;"	d	file:
+OPAR	dmr/dh.c	43;"	d	file:
+OPEN	dmr/lp.c	41;"	d	file:
+OPI	dmr/hp.c	81;"	d	file:
+P1600	dmr/ht.c	52;"	d	file:
+P800	dmr/ht.c	51;"	d	file:
+PARITY	dmr/dc.c	33;"	d	file:
+PCADDR	dmr/pc.c	13;"	d	file:
+PCAT	dmr/cat.c	14;"	d	file:
+PCIHWAT	dmr/pc.c	30;"	d	file:
+PCIPRI	dmr/pc.c	26;"	d	file:
+PCOHWAT	dmr/pc.c	29;"	d	file:
+PCOLWAT	dmr/pc.c	28;"	d	file:
+PCOPRI	dmr/pc.c	27;"	d	file:
+PENABLE	dmr/dh.c	41;"	d	file:
+PERROR	dmr/dh.c	47;"	d	file:
+PINOD	param.h	30;"	d
+PIP	dmr/hp.c	76;"	d	file:
+PIP	dmr/ht.c	58;"	d	file:
+PIPSIZ	ken/pipe.c	20;"	d	file:
+PND	dmr/dn.c	28;"	d	file:
+PPIPE	param.h	32;"	d
+PRESET	dmr/hp.c	70;"	d	file:
+PRIBIO	param.h	31;"	d
+PS	conf/m40.s	/^PS	= 177776$/;"	d
+PS	conf/m45.s	/^PS	= 177776$/;"	d
+PS	param.h	89;"	d
+PSLEP	param.h	34;"	d
+PSWP	param.h	29;"	d
+PUSER	param.h	35;"	d
+PWAIT	param.h	33;"	d
+PWI	dmr/dn.c	22;"	d	file:
+R0	reg.h	6;"	d
+R1	reg.h	7;"	d
+R2	reg.h	8;"	d
+R3	reg.h	9;"	d
+R4	reg.h	10;"	d
+R5	reg.h	11;"	d
+R6	reg.h	12;"	d
+R7	reg.h	13;"	d
+RAW	tty.h	65;"	d
+RCLR	dmr/hp.c	72;"	d	file:
+RCLR	dmr/hs.c	39;"	d	file:
+RCOM	dmr/bio.c	391;"	d	file:
+RCOM	dmr/rf.c	29;"	d	file:
+RCOM	dmr/tm.c	33;"	d	file:
+RCVACT	dmr/dp.c	58;"	d	file:
+RDATA	dmr/tc.c	40;"	d	file:
+RDRENB	dmr/kl.c	21;"	d	file:
+RDRENB	dmr/pc.c	20;"	d	file:
+READ	dmr/dp.c	55;"	d	file:
+READING	dmr/pc.c	17;"	d	file:
+READY	dmr/hp.c	75;"	d	file:
+READY	dmr/rp.c	49;"	d	file:
+READY	dmr/tc.c	30;"	d	file:
+RECAL	dmr/hp.c	71;"	d	file:
+RESET	dmr/rk.c	18;"	d	file:
+RESET	dmr/rp.c	45;"	d	file:
+REW	dmr/ht.c	49;"	d	file:
+REW	dmr/tm.c	39;"	d	file:
+RFADDR	dmr/rf.c	26;"	d	file:
+RHRCOM	dmr/bio.c	419;"	d	file:
+RHWCOM	dmr/bio.c	418;"	d	file:
+RING	dmr/dp.c	47;"	d	file:
+RINGIND	dmr/dc.c	36;"	d	file:
+RKADDR	dmr/rk.c	14;"	d	file:
+RNUM	dmr/tc.c	39;"	d	file:
+RO	seg.h	8;"	d
+ROOT	conf/mkconf.c	6;"	d	file:
+ROOTINO	param.h	65;"	d
+RORUN	dmr/dp.c	46;"	d	file:
+RPADDR	dmr/rp.c	24;"	d	file:
+RPS	reg.h	14;"	d
+RQINT	dmr/vt.c	20;"	d	file:
+RQSEND	dmr/dc.c	32;"	d	file:
+RQSEND	dmr/vs.c	16;"	d	file:
+RW	seg.h	10;"	d
+SAT	dmr/tc.c	38;"	d	file:
+SCENABL	dmr/dhdm.c	18;"	d	file:
+SCHMAG	ken/clock.c	8;"	d	file:
+SELERR	dmr/tc.c	36;"	d	file:
+SEOF	dmr/vt.c	22;"	d	file:
+SETD	ken/trap.c	11;"	d	file:
+SFORW	dmr/ht.c	46;"	d	file:
+SFORW	dmr/tc.c	45;"	d	file:
+SFORW	dmr/tm.c	36;"	d	file:
+SIDL	proc.h	32;"	d
+SIENABL	dmr/dp.c	52;"	d	file:
+SIGBUS	param.h	52;"	d
+SIGEMT	param.h	49;"	d
+SIGFPT	param.h	50;"	d
+SIGHUP	param.h	43;"	d
+SIGINS	param.h	46;"	d
+SIGINT	param.h	44;"	d
+SIGIOT	param.h	48;"	d
+SIGKIL	param.h	51;"	d
+SIGPIPE	param.h	55;"	d
+SIGQIT	param.h	45;"	d
+SIGSEG	param.h	53;"	d
+SIGSYS	param.h	54;"	d
+SIGTRC	param.h	47;"	d
+SINCR	param.h	12;"	d
+SIO	dmr/ht.c	62;"	d	file:
+SIO	dmr/tc.c	47;"	d	file:
+SIO	dmr/tm.c	49;"	d	file:
+SISA0	conf/m45.s	/^SISA0	= 172240$/;"	d
+SISA1	conf/m45.s	/^SISA1	= 172242$/;"	d
+SISD0	conf/m45.s	/^SISD0	= 172200$/;"	d
+SISD1	conf/m45.s	/^SISD1	= 172202$/;"	d
+SLOAD	proc.h	37;"	d
+SLOCK	proc.h	39;"	d
+SMAPSIZ	param.h	16;"	d
+SPEED1	dmr/dc.c	30;"	d	file:
+SREV	dmr/ht.c	47;"	d	file:
+SREV	dmr/tc.c	46;"	d	file:
+SREV	dmr/tm.c	37;"	d	file:
+SRUN	proc.h	31;"	d
+SSEEK	dmr/ht.c	61;"	d	file:
+SSEEK	dmr/tm.c	48;"	d	file:
+SSIZE	param.h	11;"	d
+SSLEEP	proc.h	29;"	d
+SSPEED	dmr/dh.c	50;"	d	file:
+SSR0	conf/m40.s	/^SSR0	= 177572$/;"	d
+SSR0	conf/m45.s	/^SSR0	= 177572$/;"	d
+SSR1	conf/m45.s	/^SSR1	= 177574$/;"	d
+SSR2	conf/m40.s	/^SSR2	= 177576$/;"	d
+SSR2	conf/m45.s	/^SSR2	= 177576$/;"	d
+SSR3	conf/m45.s	/^SSR3	= 172516$/;"	d
+SST	dmr/tc.c	41;"	d	file:
+SSTART	tty.h	81;"	d
+SSTOP	proc.h	34;"	d
+SSWAP	proc.h	40;"	d
+SSYS	proc.h	38;"	d
+STOP1	dmr/dc.c	31;"	d	file:
+STOP1	dmr/vs.c	14;"	d	file:
+STRC	proc.h	41;"	d
+SUFU	dmr/rp.c	51;"	d	file:
+SUSI	dmr/rp.c	53;"	d	file:
+SUSU	dmr/rp.c	52;"	d	file:
+SW	param.h	91;"	d
+SWAIT	proc.h	30;"	d
+SWTED	proc.h	42;"	d
+SYN	dmr/dp.c	62;"	d	file:
+SYS	ken/trap.c	12;"	d	file:
+SZOMB	proc.h	33;"	d
+TAPERR	dmr/tc.c	28;"	d	file:
+TBDELAY	tty.h	69;"	d
+TBIT	reg.h	16;"	d
+TCADDR	dmr/tc.c	25;"	d	file:
+TIMEOUT	tty.h	78;"	d
+TMADDR	dmr/tm.c	30;"	d	file:
+TREV	dmr/tc.c	29;"	d	file:
+TTHIWAT	tty.h	55;"	d
+TTIPRI	tty.h	45;"	d
+TTLOWAT	tty.h	56;"	d
+TTOPRI	tty.h	46;"	d
+TTYHOG	tty.h	57;"	d
+TUR	dmr/tm.c	44;"	d	file:
+TURNOFF	dmr/dhdm.c	21;"	d	file:
+TURNON	dmr/dhdm.c	20;"	d	file:
+TWOSB	dmr/dh.c	40;"	d	file:
+UBMAP	seg.h	26;"	d
+UDSA	seg.h	7;"	d
+UISA	seg.h	6;"	d
+UISA0	conf/m40.s	/^UISA0	= 177640$/;"	d
+UISA1	conf/m40.s	/^UISA1	= 177642$/;"	d
+UISD	seg.h	5;"	d
+UISD0	conf/m40.s	/^UISD0	= 177600$/;"	d
+UISD1	conf/m40.s	/^UISD1	= 177602$/;"	d
+UMODE	ken/clock.c	7;"	d	file:
+UMODE	ken/trap.c	10;"	d	file:
+UPS	dmr/tc.c	32;"	d	file:
+USER	ken/trap.c	13;"	d	file:
+USIZE	param.h	62;"	d
+VSADDR	dmr/vs.c	11;"	d	file:
+VTADDR	dmr/vt.c	19;"	d	file:
+VTDELAY	tty.h	71;"	d
+VTPRI	dmr/vt.c	23;"	d	file:
+WAITING	dmr/pc.c	16;"	d	file:
+WCOM	dmr/bio.c	390;"	d	file:
+WCOM	dmr/rf.c	30;"	d	file:
+WCOM	dmr/tm.c	34;"	d	file:
+WDATA	dmr/tc.c	42;"	d	file:
+WEOF	dmr/ht.c	45;"	d	file:
+WEOF	dmr/tm.c	35;"	d	file:
+WIRG	dmr/tm.c	38;"	d	file:
+WLO	dmr/rk.c	24;"	d	file:
+WO	seg.h	9;"	d
+WOPEN	tty.h	79;"	d
+WRITE	dmr/dp.c	54;"	d	file:
+XINT	dmr/dh.c	49;"	d	file:
+XTABS	tty.h	61;"	d
+_aretu	conf/m40.s	/^_aretu:$/;"	l
+_aretu	conf/m45.s	/^_aretu:$/;"	l
+_backup	conf/m40.s	/^_backup:$/;"	l
+_backup	conf/m45.s	/^_backup:$/;"	l
+_clearseg	conf/m40.s	/^_clearseg:$/;"	l
+_clearseg	conf/m45.s	/^_clearseg:$/;"	l
+_copyiin	conf/m45.s	/^_copyiin:$/;"	l
+_copyin	conf/m40.s	/^_copyin:$/;"	l
+_copyin	conf/m45.s	/^_copyin:$/;"	l
+_copyiout	conf/m45.s	/^_copyiout:$/;"	l
+_copyout	conf/m40.s	/^_copyout:$/;"	l
+_copyout	conf/m45.s	/^_copyout:$/;"	l
+_copyseg	conf/m40.s	/^_copyseg:$/;"	l
+_copyseg	conf/m45.s	/^_copyseg:$/;"	l
+_display	conf/m40.s	/^_display:$/;"	l
+_display	conf/m45.s	/^_display:$/;"	l
+_dpadd	conf/m40.s	/^_dpadd:$/;"	l
+_dpadd	conf/m45.s	/^_dpadd:$/;"	l
+_dpcmp	conf/m40.s	/^_dpcmp:$/;"	l
+_dpcmp	conf/m45.s	/^_dpcmp:$/;"	l
+_fubyte	conf/m40.s	/^_fubyte:$/;"	l
+_fubyte	conf/m45.s	/^_fubyte:$/;"	l
+_fuibyte	conf/m40.s	/^_fuibyte:$/;"	l
+_fuibyte	conf/m45.s	/^_fuibyte:$/;"	l
+_fuiword	conf/m40.s	/^_fuiword:$/;"	l
+_fuiword	conf/m45.s	/^_fuiword:$/;"	l
+_fuword	conf/m40.s	/^_fuword:$/;"	l
+_fuword	conf/m45.s	/^_fuword:$/;"	l
+_getc	conf/m40.s	/^_getc:$/;"	l
+_getc	conf/m45.s	/^_getc:$/;"	l
+_idle	conf/m40.s	/^_idle:$/;"	l
+_idle	conf/m45.s	/^_idle:$/;"	l
+_incupc	conf/m40.s	/^_incupc:$/;"	l
+_incupc	conf/m45.s	/^_incupc:$/;"	l
+_ka6	conf/m40.s	/^_ka6:	KISA6$/;"	l
+_ka6	conf/m45.s	/^_ka6:	KDSA6$/;"	l
+_ldiv	conf/m40.s	/^_ldiv:$/;"	l
+_ldiv	conf/m45.s	/^_ldiv:$/;"	l
+_lrem	conf/m40.s	/^_lrem:$/;"	l
+_lrem	conf/m45.s	/^_lrem:$/;"	l
+_lshift	conf/m40.s	/^_lshift:$/;"	l
+_lshift	conf/m45.s	/^_lshift:$/;"	l
+_putc	conf/m40.s	/^_putc:$/;"	l
+_putc	conf/m45.s	/^_putc:$/;"	l
+_retu	conf/m40.s	/^_retu:$/;"	l
+_retu	conf/m45.s	/^_retu:$/;"	l
+_savfp	conf/m40.s	/^_savfp:$/;"	l
+_savfp	conf/m45.s	/^_savfp:$/;"	l
+_savu	conf/m40.s	/^_savu:$/;"	l
+_savu	conf/m45.s	/^_savu:$/;"	l
+_spl0	conf/m40.s	/^_spl0:$/;"	l
+_spl0	conf/m45.s	/^_spl0:$/;"	l
+_spl1	conf/m40.s	/^_spl1:$/;"	l
+_spl1	conf/m45.s	/^_spl1:$/;"	l
+_spl4	conf/m40.s	/^_spl4:$/;"	l
+_spl4	conf/m45.s	/^_spl4:$/;"	l
+_spl5	conf/m40.s	/^_spl5:$/;"	l
+_spl5	conf/m45.s	/^_spl5:$/;"	l
+_spl6	conf/m40.s	/^_spl6:$/;"	l
+_spl6	conf/m45.s	/^_spl6:$/;"	l
+_spl7	conf/m40.s	/^_spl7:$/;"	l
+_spl7	conf/m45.s	/^_spl7:$/;"	l
+_subyte	conf/m40.s	/^_subyte:$/;"	l
+_subyte	conf/m45.s	/^_subyte:$/;"	l
+_suibyte	conf/m40.s	/^_suibyte:$/;"	l
+_suibyte	conf/m45.s	/^_suibyte:$/;"	l
+_suiword	conf/m40.s	/^_suiword:$/;"	l
+_suiword	conf/m45.s	/^_suiword:$/;"	l
+_suword	conf/m40.s	/^_suword:$/;"	l
+_suword	conf/m45.s	/^_suword:$/;"	l
+_u	conf/m40.s	/^_u	= 140000$/;"	d
+_u	conf/m45.s	/^_u	= 140000$/;"	d
+access	ken/fio.c	/^access(aip, mode)$/;"	f
+address	conf/mkconf.c	/^	int	address;$/;"	m	struct:tab	file:
+alloc	ken/alloc.c	/^alloc(dev)$/;"	f
+av_back	buf.h	/^	struct	buf *av_back;		\/*     if not BUSY*\/$/;"	m	struct:buf	typeref:struct:buf::buf
+av_forw	buf.h	/^	struct	buf *av_forw;		\/* position on free list, *\/$/;"	m	struct:buf	typeref:struct:buf::buf
+b_addr	buf.h	/^	char	*b_addr;		\/* low order core address *\/$/;"	m	struct:buf
+b_back	buf.h	/^	struct	buf *b_back;		\/*  "  *\/$/;"	m	struct:buf	typeref:struct:buf::buf
+b_back	buf.h	/^	struct	buf *b_back;		\/* last buffer for this dev *\/$/;"	m	struct:devtab	typeref:struct:devtab::buf
+b_blkno	buf.h	/^	char	*b_blkno;		\/* block # on device *\/$/;"	m	struct:buf
+b_dev	buf.h	/^	int	b_dev;			\/* major+minor device name *\/$/;"	m	struct:buf
+b_error	buf.h	/^	char	b_error;		\/* returned after I\/O *\/$/;"	m	struct:buf
+b_flags	buf.h	/^	int	b_flags;		\/* see defines below *\/$/;"	m	struct:buf
+b_forw	buf.h	/^	struct	buf *b_forw;		\/* first buffer for this dev *\/$/;"	m	struct:devtab	typeref:struct:devtab::buf
+b_forw	buf.h	/^	struct	buf *b_forw;		\/* headed by devtab of b_dev *\/$/;"	m	struct:buf	typeref:struct:buf::buf
+b_resid	buf.h	/^	char	*b_resid;		\/* words not transferred after error *\/$/;"	m	struct:buf
+b_wcount	buf.h	/^	int	b_wcount;		\/* transfer count (usu. words) *\/$/;"	m	struct:buf
+b_xmem	buf.h	/^	char	*b_xmem;		\/* high order core address *\/$/;"	m	struct:buf
+backup	conf/m40.s	/^backup:$/;"	l
+badblock	ken/alloc.c	/^badblock(afp, abn, dev)$/;"	f
+bawrite	dmr/bio.c	/^bawrite(bp)$/;"	f
+bcopy	ken/subr.c	/^bcopy(from, to, count)$/;"	f
+bdevsw	conf.h	/^struct	bdevsw$/;"	s
+bdevsw	conf.h	/^} bdevsw[];$/;"	v	typeref:struct:bdevsw
+bdwrite	dmr/bio.c	/^bdwrite(bp)$/;"	f
+bflg	conf/m40.s	/^bflg:	.=.+1$/;"	l
+bflush	dmr/bio.c	/^bflush(dev)$/;"	f
+bfreelist	buf.h	/^struct	buf bfreelist;$/;"	v	typeref:struct:buf
+binit	dmr/bio.c	/^binit()$/;"	f
+bmap	ken/subr.c	/^bmap(ip, bn)$/;"	f
+bread	dmr/bio.c	/^bread(dev, blkno)$/;"	f
+breada	dmr/bio.c	/^breada(adev, blkno, rablkno)$/;"	f
+brelse	dmr/bio.c	/^brelse(bp)$/;"	f
+bsssiz	conf/sysfix.c	/^int	bsssiz;$/;"	v
+buf	buf.h	/^struct buf$/;"	s
+buf	buf.h	/^} buf[NBUF];$/;"	v	typeref:struct:buf
+buf	dmr/vt.c	/^	int	buf;$/;"	m	struct:vtreg	file:
+buffers	dmr/bio.c	/^char	buffers[NBUF][514];$/;"	v
+bwrite	dmr/bio.c	/^bwrite(bp)$/;"	f
+c_arg	systm.h	/^	int	c_arg;		\/* argument to routine *\/$/;"	m	struct:callo
+c_cc	tty.h	/^	int	c_cc;		\/* character count *\/$/;"	m	struct:clist
+c_cf	tty.h	/^	int	c_cf;		\/* pointer to first block *\/$/;"	m	struct:clist
+c_cl	tty.h	/^	int	c_cl;		\/* pointer to last block *\/$/;"	m	struct:clist
+c_func	systm.h	/^	int	(*c_func)();	\/* routine *\/$/;"	m	struct:callo
+c_next	dmr/tty.c	/^	struct cblock *c_next;$/;"	m	struct:cblock	typeref:struct:cblock::cblock	file:
+c_time	systm.h	/^	int	c_time;		\/* incremental time *\/$/;"	m	struct:callo
+call	conf/m40.s	/^call:$/;"	l
+call	conf/m45.s	/^call:$/;"	l
+call	ken/trap.c	/^	int	(*call)();	\/* name of handler *\/$/;"	m	struct:sysent	file:
+call1	conf/m40.s	/^call1:$/;"	l
+call1	conf/m45.s	/^call1:$/;"	l
+callo	systm.h	/^struct	callo$/;"	s
+callout	systm.h	/^} callout[NCALL];$/;"	v	typeref:struct:callo
+canon	dmr/tty.c	/^canon(atp)$/;"	f
+canonb	systm.h	/^char	canonb[CANBSIZ];	\/* buffer for erase and kill (#@) *\/$/;"	v
+cat	dmr/cat.c	/^} cat;$/;"	v	typeref:struct:__anon2
+catbuf	dmr/cat.c	/^	int	catbuf;$/;"	m	struct:__anon3	file:
+catcsr	dmr/cat.c	/^	int	catcsr;$/;"	m	struct:__anon3	file:
+catintr	dmr/cat.c	/^catintr()$/;"	f
+catlock	dmr/cat.c	/^	int	catlock;$/;"	m	struct:__anon2	file:
+cblock	dmr/tty.c	/^struct cblock {$/;"	s	file:
+cc	dmr/lp.c	/^	int	cc;$/;"	m	struct:__anon12	file:
+cc	dmr/pc.c	/^	int	cc;$/;"	m	struct:clist	file:
+ccc	dmr/lp.c	/^	int	ccc;$/;"	m	struct:__anon12	file:
+cdevsw	conf.h	/^struct	cdevsw$/;"	s
+cdevsw	conf.h	/^} cdevsw[];$/;"	v	typeref:struct:cdevsw
+cf	dmr/lp.c	/^	int	cf;$/;"	m	struct:__anon12	file:
+cf	dmr/pc.c	/^	int	cf;$/;"	m	struct:clist	file:
+cfree	dmr/tty.c	/^struct cblock cfree[NCLIST];$/;"	v	typeref:struct:cblock
+cfreelist	dmr/tty.c	/^struct cblock *cfreelist;$/;"	v	typeref:struct:cblock
+chdir	ken/sys4.c	/^chdir()$/;"	f
+chmod	ken/sys4.c	/^chmod()$/;"	f
+chown	ken/sys4.c	/^chown()$/;"	f
+cinit	dmr/tty.c	/^cinit()$/;"	f
+cl	dmr/lp.c	/^	int	cl;$/;"	m	struct:__anon12	file:
+cl	dmr/pc.c	/^	int	cl;$/;"	m	struct:clist	file:
+clist	dmr/pc.c	/^struct clist {$/;"	s	file:
+clist	tty.h	/^struct clist$/;"	s
+clock	ken/clock.c	/^clock(dev, sp, r1, nps, r0, pc, ps)$/;"	f
+close	ken/sys2.c	/^close()$/;"	f
+closef	ken/fio.c	/^closef(fp)$/;"	f
+closei	ken/fio.c	/^closei(ip, rw)$/;"	f
+clrbuf	dmr/bio.c	/^clrbuf(bp)$/;"	f
+codea	conf/mkconf.c	/^	char	*codea;$/;"	m	struct:tab	file:
+codeb	conf/mkconf.c	/^	char	*codeb;$/;"	m	struct:tab	file:
+codec	conf/mkconf.c	/^	char	*codec;$/;"	m	struct:tab	file:
+coded	conf/mkconf.c	/^	char	*coded;$/;"	m	struct:tab	file:
+codee	conf/mkconf.c	/^	char	*codee;$/;"	m	struct:tab	file:
+copsu	conf/m40.s	/^copsu:$/;"	l
+copsu	conf/m45.s	/^copsu:$/;"	l
+core	ken/sig.c	/^core()$/;"	f
+coremap	systm.h	/^int	coremap[CMAPSIZ];	\/* space for core allocation *\/$/;"	v
+count	conf/mkconf.c	/^	int	count;$/;"	m	struct:tab	file:
+count	ken/trap.c	/^	int	count;		\/* argument count *\/$/;"	m	struct:sysent	file:
+cpass	ken/subr.c	/^cpass()$/;"	f
+cputype	systm.h	/^int	cputype;		\/* type of cpu =40, 45, or 70 *\/$/;"	v
+creat	ken/sys2.c	/^creat()$/;"	f
+cret	conf/m40.s	/^cret:$/;"	l
+cret	conf/m45.s	/^cret:$/;"	l
+csr	dmr/vt.c	/^	int	csr;$/;"	m	struct:vtreg	file:
+csv	conf/m40.s	/^csv:$/;"	l
+csv	conf/m45.s	/^csv:$/;"	l
+ctclose	dmr/cat.c	/^ctclose()$/;"	f
+ctopen	dmr/cat.c	/^ctopen(dev)$/;"	f
+ctwrite	dmr/cat.c	/^ctwrite(dev)$/;"	f
+curpri	systm.h	/^char	curpri;			\/* more scheduling *\/$/;"	v
+cylin	dmr/hp.c	95;"	d	file:
+cylin	dmr/rp.c	62;"	d	file:
+cyloff	dmr/hp.c	/^	int	cyloff;$/;"	m	struct:__anon8	file:
+cyloff	dmr/rp.c	/^	int	cyloff;$/;"	m	struct:__anon17	file:
+d_actf	buf.h	/^	struct	buf *d_actf;		\/* head of I\/O queue *\/$/;"	m	struct:devtab	typeref:struct:devtab::buf
+d_active	buf.h	/^	char	d_active;		\/* busy flag *\/$/;"	m	struct:devtab
+d_actl	buf.h	/^	struct 	buf *d_actl;		\/* tail of I\/O queue *\/$/;"	m	struct:devtab	typeref:struct:devtab::buf
+d_close	conf.h	/^	int	(*d_close)();$/;"	m	struct:bdevsw
+d_close	conf.h	/^	int	(*d_close)();$/;"	m	struct:cdevsw
+d_errcnt	buf.h	/^	char	d_errcnt;		\/* error count (for recovery) *\/$/;"	m	struct:devtab
+d_major	conf.h	/^	char	d_major;$/;"	m	struct:__anon1
+d_minor	conf.h	/^	char	d_minor;$/;"	m	struct:__anon1
+d_open	conf.h	/^	int	(*d_open)();$/;"	m	struct:bdevsw
+d_open	conf.h	/^	int	(*d_open)();$/;"	m	struct:cdevsw
+d_read	conf.h	/^	int	(*d_read)();$/;"	m	struct:cdevsw
+d_sgtty	conf.h	/^	int	(*d_sgtty)();$/;"	m	struct:cdevsw
+d_strategy	conf.h	/^	int	(*d_strategy)();$/;"	m	struct:bdevsw
+d_tab	conf.h	/^	int	*d_tab;$/;"	m	struct:bdevsw
+d_write	conf.h	/^	int	(*d_write)();$/;"	m	struct:cdevsw
+datrel	conf/sysfix.c	/^int	datrel;$/;"	v
+datsiz	conf/sysfix.c	/^int	datsiz;$/;"	v
+dc11	dmr/dc.c	/^struct	tty dc11[NDC11];$/;"	v	typeref:struct:tty
+dcclose	dmr/dc.c	/^dcclose(dev)$/;"	f
+dcopen	dmr/dc.c	/^dcopen(dev, flag)$/;"	f
+dcrbuf	dmr/dc.c	/^	int dcrbuf;$/;"	m	struct:dcregs	file:
+dcrcsr	dmr/dc.c	/^	int dcrcsr;$/;"	m	struct:dcregs	file:
+dcread	dmr/dc.c	/^dcread(dev)$/;"	f
+dcregs	dmr/dc.c	/^struct dcregs {$/;"	s	file:
+dcrint	dmr/dc.c	/^dcrint(dev)$/;"	f
+dcsgtty	dmr/dc.c	/^dcsgtty(dev, av)$/;"	f
+dctbuf	dmr/dc.c	/^	int dctbuf;$/;"	m	struct:dcregs	file:
+dctcsr	dmr/dc.c	/^	int dctcsr;$/;"	m	struct:dcregs	file:
+dcwrite	dmr/dc.c	/^dcwrite(dev)$/;"	f
+dcxint	dmr/dc.c	/^dcxint(dev)$/;"	f
+deverror	ken/prf.c	/^deverror(bp, o1, o2)$/;"	f
+devstart	dmr/bio.c	/^devstart(bp, devloc, devblk, hbcom)$/;"	f
+devtab	buf.h	/^struct devtab$/;"	s
+dh11	dmr/dh.c	/^struct	tty dh11[NDH11];$/;"	v	typeref:struct:tty
+dh11	dmr/dhdm.c	/^struct	tty dh11[];$/;"	v	typeref:struct:tty
+dh11	dmr/dhfdm.c	/^struct	tty	dh11[];$/;"	v	typeref:struct:tty
+dh_clist	dmr/dh.c	/^char	dh_clist[NDH11][DHNCH];$/;"	v
+dhbar	dmr/dh.c	/^	int dhbar;$/;"	m	struct:dhregs	file:
+dhbcr	dmr/dh.c	/^	int dhbcr;$/;"	m	struct:dhregs	file:
+dhbreak	dmr/dh.c	/^	int dhbreak;$/;"	m	struct:dhregs	file:
+dhcar	dmr/dh.c	/^	int dhcar;$/;"	m	struct:dhregs	file:
+dhclose	dmr/dh.c	/^dhclose(dev)$/;"	f
+dhcsr	dmr/dh.c	/^	int dhcsr;$/;"	m	struct:dhregs	file:
+dhlpr	dmr/dh.c	/^	int dhlpr;$/;"	m	struct:dhregs	file:
+dhnxch	dmr/dh.c	/^	int dhnxch;$/;"	m	struct:dhregs	file:
+dhopen	dmr/dh.c	/^dhopen(dev, flag)$/;"	f
+dhparam	dmr/dh.c	/^dhparam(atp)$/;"	f
+dhread	dmr/dh.c	/^dhread(dev)$/;"	f
+dhregs	dmr/dh.c	/^struct dhregs {$/;"	s	file:
+dhrint	dmr/dh.c	/^dhrint()$/;"	f
+dhsar	dmr/dh.c	/^int	dhsar;$/;"	v
+dhsgtty	dmr/dh.c	/^dhsgtty(dev, av)$/;"	f
+dhsilo	dmr/dh.c	/^	int dhsilo;$/;"	m	struct:dhregs	file:
+dhstart	dmr/dh.c	/^dhstart(atp)$/;"	f
+dhwrite	dmr/dh.c	/^dhwrite(dev)$/;"	f
+dhxint	dmr/dh.c	/^dhxint()$/;"	f
+dmclose	dmr/dhdm.c	/^dmclose(dev)$/;"	f
+dmclose	dmr/dhfdm.c	/^dmclose(dev)$/;"	f
+dmcsr	dmr/dhdm.c	/^	int	dmcsr;$/;"	m	struct:dmregs	file:
+dmint	dmr/dhdm.c	/^dmint()$/;"	f
+dmlstat	dmr/dhdm.c	/^	int	dmlstat;$/;"	m	struct:dmregs	file:
+dmopen	dmr/dhdm.c	/^dmopen(dev)$/;"	f
+dmopen	dmr/dhfdm.c	/^dmopen(dev)$/;"	f
+dmregs	dmr/dhdm.c	/^struct dmregs {$/;"	s	file:
+dn	dmr/dn.c	/^struct dn {$/;"	s	file:
+dn11	dmr/dn.c	/^	} dn11[3];$/;"	m	struct:dn	typeref:struct:dn::__anon4	file:
+dn_reg	dmr/dn.c	/^		char	dn_reg;$/;"	m	struct:dn::__anon4	file:
+dn_stat	dmr/dn.c	/^		char	dn_stat;$/;"	m	struct:dn::__anon4	file:
+dnclose	dmr/dn.c	/^dnclose(dev)$/;"	f
+dnint	dmr/dn.c	/^dnint(dev)$/;"	f
+dnopen	dmr/dn.c	/^dnopen(dev, flag)$/;"	f
+dnwrite	dmr/dn.c	/^dnwrite(dev)$/;"	f
+dp11	dmr/dp.c	/^} dp11;$/;"	v	typeref:struct:__anon5
+dp_buf	dmr/dp.c	/^	char	*dp_buf;$/;"	m	struct:__anon5	file:
+dp_bufp	dmr/dp.c	/^	char	*dp_bufp;$/;"	m	struct:__anon5	file:
+dp_nxmit	dmr/dp.c	/^	int	dp_nxmit;$/;"	m	struct:__anon5	file:
+dp_proc	dmr/dp.c	/^	int	dp_proc;$/;"	m	struct:__anon5	file:
+dp_state	dmr/dp.c	/^	char	dp_state;$/;"	m	struct:__anon5	file:
+dp_timer	dmr/dp.c	/^	char	dp_timer;$/;"	m	struct:__anon5	file:
+dpclose	dmr/dp.c	/^dpclose()$/;"	f
+dpopen	dmr/dp.c	/^dpopen(dev, flag)$/;"	f
+dprbuf	dmr/dp.c	/^	char	dprbuf;$/;"	m	struct:__anon6	file:
+dprcsr	dmr/dp.c	/^	int	dprcsr;$/;"	m	struct:__anon6	file:
+dpread	dmr/dp.c	/^dpread()$/;"	f
+dprint	dmr/dp.c	/^dprint()$/;"	f
+dpstart	dmr/dp.c	/^dpstart()$/;"	f
+dpsyn0	dmr/dp.c	/^	char	dpsyn0;$/;"	m	struct:__anon6	file:
+dpsyn1	dmr/dp.c	/^	char	dpsyn1;$/;"	m	struct:__anon6	file:
+dptbuf	dmr/dp.c	/^	char	dptbuf;$/;"	m	struct:__anon6	file:
+dptcsr	dmr/dp.c	/^	int	dptcsr;$/;"	m	struct:__anon6	file:
+dptimeout	dmr/dp.c	/^dptimeout()$/;"	f
+dpturnaround	dmr/dp.c	/^dpturnaround()$/;"	f
+dpwait	dmr/dp.c	/^dpwait()$/;"	f
+dpwrite	dmr/dp.c	/^dpwrite()$/;"	f
+dpxint	dmr/dp.c	/^dpxint()$/;"	f
+dump	conf/m40.s	/^dump:$/;"	l
+dump	conf/m45.s	/^dump:$/;"	l
+dup	ken/sys3.c	/^dup()$/;"	f
+equal	conf/mkconf.c	/^equal(a, b)$/;"	f
+err	conf/m40.s	/^err:$/;"	l
+err	conf/m45.s	/^err:$/;"	l
+estabur	ken/main.c	/^estabur(nt, nd, ns, sep)$/;"	f
+exec	ken/sys1.c	/^exec()$/;"	f
+execnt	systm.h	/^int	execnt;			\/* number of processes in exec *\/$/;"	v
+exit	ken/sys1.c	/^exit()$/;"	f
+expand	ken/slp.c	/^expand(newsize)$/;"	f
+f_count	file.h	/^	char	f_count;	\/* reference count *\/$/;"	m	struct:file
+f_flag	file.h	/^	char	f_flag;$/;"	m	struct:file
+f_inode	file.h	/^	int	f_inode;	\/* pointer to inode structure *\/$/;"	m	struct:file
+f_offset	file.h	/^	char	*f_offset[2];	\/* read\/write character pointer *\/$/;"	m	struct:file
+falloc	ken/fio.c	/^falloc()$/;"	f
+fetch	conf/m40.s	/^fetch:$/;"	l
+file	file.h	/^struct	file$/;"	s
+file	file.h	/^} file[NFILE];$/;"	v	typeref:struct:file
+filsys	filsys.h	/^struct	filsys$/;"	s
+flag	dmr/lp.c	/^	int	flag;$/;"	m	struct:__anon12	file:
+flushtty	dmr/tty.c	/^flushtty(atp)$/;"	f
+fork	ken/sys1.c	/^fork()$/;"	f
+fout	conf/mkconf.c	/^int	fout;$/;"	v
+free	ken/alloc.c	/^free(dev, bno)$/;"	f
+fstat	ken/sys3.c	/^fstat()$/;"	f
+fuiword	conf/m45.s	/^fuiword:$/;"	l
+fuword	conf/m40.s	/^fuword:$/;"	l
+fuword	conf/m45.s	/^fuword:$/;"	l
+getblk	dmr/bio.c	/^getblk(dev, blkno)$/;"	f
+getchar	conf/mkconf.c	/^getchar()$/;"	f
+geterror	dmr/bio.c	/^geterror(abp)$/;"	f
+getf	ken/fio.c	/^getf(f)$/;"	f
+getfs	ken/alloc.c	/^getfs(dev)$/;"	f
+getgid	ken/sys4.c	/^getgid()$/;"	f
+getmdev	ken/sys3.c	/^getmdev()$/;"	f
+getpid	ken/sys4.c	/^getpid()$/;"	f
+getrel	conf/sysfix.c	/^getrel(r)$/;"	f
+getswit	ken/sys4.c	/^getswit()$/;"	f
+getuid	ken/sys4.c	/^getuid()$/;"	f
+giword	conf/m45.s	/^giword:$/;"	l
+grow	ken/sig.c	/^grow(sp)$/;"	f
+gtime	ken/sys4.c	/^gtime()$/;"	f
+gtty	dmr/tty.c	/^gtty()$/;"	f
+gword	conf/m40.s	/^gword:$/;"	l
+gword	conf/m45.s	/^gword:$/;"	l
+h_blkno	dmr/ht.c	/^char	*h_blkno[NUNIT];$/;"	v
+h_nxrec	dmr/ht.c	/^char	*h_nxrec[NUNIT];$/;"	v
+h_openf	dmr/ht.c	/^char	h_openf[NUNIT];$/;"	v
+hcommand	dmr/ht.c	/^hcommand(dev, com)$/;"	f
+hibyte	param.h	/^	char	hibyte;$/;"	m	struct:__anon26
+hp_openf	dmr/hp.c	/^char	hp_openf;$/;"	v
+hp_sizes	dmr/hp.c	/^} hp_sizes[] {$/;"	s	file:
+hpas	dmr/hp.c	/^	int	hpas;	\/* Attention Summary *\/$/;"	m	struct:__anon7	file:
+hpba	dmr/hp.c	/^	int	hpba;	\/* UNIBUS address register *\/$/;"	m	struct:__anon7	file:
+hpbae	dmr/hp.c	/^	int	hpbae;	\/* 11\/70 bus extension *\/$/;"	m	struct:__anon7	file:
+hpbuf	dmr/hp.c	/^struct	buf	hpbuf;$/;"	v	typeref:struct:buf
+hpca	dmr/hp.c	/^	int	hpca;	\/* Desired Cylinder address register*\/$/;"	m	struct:__anon7	file:
+hpcc	dmr/hp.c	/^	int	hpcc;	\/* Current Cylinder *\/$/;"	m	struct:__anon7	file:
+hpcs1	dmr/hp.c	/^	int	hpcs1;	\/* Control and Status register 1 *\/$/;"	m	struct:__anon7	file:
+hpcs2	dmr/hp.c	/^	int	hpcs2;	\/* Control and Status register 2*\/$/;"	m	struct:__anon7	file:
+hpda	dmr/hp.c	/^	int	hpda;	\/* Desired address register *\/$/;"	m	struct:__anon7	file:
+hpdb	dmr/hp.c	/^	int	hpdb;	\/* Data buffer *\/$/;"	m	struct:__anon7	file:
+hpds	dmr/hp.c	/^	int	hpds;	\/* Drive Status *\/$/;"	m	struct:__anon7	file:
+hpdt	dmr/hp.c	/^	int	hpdt;	\/* Drive type *\/$/;"	m	struct:__anon7	file:
+hper1	dmr/hp.c	/^	int	hper1;	\/* Error register 1 *\/$/;"	m	struct:__anon7	file:
+hper2	dmr/hp.c	/^	int	hper2;	\/* Error register 2 *\/$/;"	m	struct:__anon7	file:
+hper3	dmr/hp.c	/^	int	hper3;	\/* Error register 3 *\/$/;"	m	struct:__anon7	file:
+hpintr	dmr/hp.c	/^hpintr()$/;"	f
+hpla	dmr/hp.c	/^	int	hpla;	\/* Look ahead *\/$/;"	m	struct:__anon7	file:
+hpmr	dmr/hp.c	/^	int	hpmr;	\/* Maintenance register *\/$/;"	m	struct:__anon7	file:
+hpof	dmr/hp.c	/^	int	hpof;	\/* Offset register *\/$/;"	m	struct:__anon7	file:
+hpopen	dmr/hp.c	/^hpopen()$/;"	f
+hppat	dmr/hp.c	/^	int	hppat;	\/* Burst error bit pattern *\/$/;"	m	struct:__anon7	file:
+hpphys	dmr/hp.c	/^hpphys(dev)$/;"	f
+hppos	dmr/hp.c	/^	int	hppos;	\/* Burst error bit position *\/$/;"	m	struct:__anon7	file:
+hpread	dmr/hp.c	/^hpread(dev)$/;"	f
+hpsn	dmr/hp.c	/^	int	hpsn;	\/* Serial number *\/$/;"	m	struct:__anon7	file:
+hpstart	dmr/hp.c	/^hpstart()$/;"	f
+hpstrategy	dmr/hp.c	/^hpstrategy(abp)$/;"	f
+hptab	dmr/hp.c	/^struct	devtab	hptab;$/;"	v	typeref:struct:devtab
+hpwc	dmr/hp.c	/^	int	hpwc;	\/* Word count register *\/$/;"	m	struct:__anon7	file:
+hpwrite	dmr/hp.c	/^hpwrite(dev)$/;"	f
+hsas	dmr/hs.c	/^	int	hsas;	\/* not used *\/$/;"	m	struct:__anon9	file:
+hsba	dmr/hs.c	/^	int	hsba;	\/* UNIBUS address register *\/$/;"	m	struct:__anon9	file:
+hsbae	dmr/hs.c	/^	int	hsbae;	\/* 11\/70 bus extension *\/$/;"	m	struct:__anon9	file:
+hscs1	dmr/hs.c	/^	int	hscs1;	\/* Control and Status register 1 *\/$/;"	m	struct:__anon9	file:
+hscs2	dmr/hs.c	/^	int	hscs2;	\/* Control and Status register 2 *\/$/;"	m	struct:__anon9	file:
+hsda	dmr/hs.c	/^	int	hsda;	\/* Desired address register *\/$/;"	m	struct:__anon9	file:
+hsdb	dmr/hs.c	/^	int	hsdb;	\/* not used *\/$/;"	m	struct:__anon9	file:
+hsds	dmr/hs.c	/^	int	hsds;	\/* Drive Status *\/$/;"	m	struct:__anon9	file:
+hsdt	dmr/hs.c	/^	int	hsdt;	\/* not used *\/$/;"	m	struct:__anon9	file:
+hser	dmr/hs.c	/^	int	hser;	\/* Error register *\/$/;"	m	struct:__anon9	file:
+hsintr	dmr/hs.c	/^hsintr()$/;"	f
+hsla	dmr/hs.c	/^	int	hsla;	\/* not used *\/$/;"	m	struct:__anon9	file:
+hsmr	dmr/hs.c	/^	int	hsmr;	\/* not used *\/$/;"	m	struct:__anon9	file:
+hsread	dmr/hs.c	/^hsread(dev)$/;"	f
+hsstart	dmr/hs.c	/^hsstart()$/;"	f
+hsstrategy	dmr/hs.c	/^hsstrategy(abp)$/;"	f
+hstab	dmr/hs.c	/^struct	devtab	hstab;$/;"	v	typeref:struct:devtab
+hswc	dmr/hs.c	/^	int	hswc;	\/* Word count register *\/$/;"	m	struct:__anon9	file:
+hswrite	dmr/hs.c	/^hswrite(dev)$/;"	f
+htas	dmr/ht.c	/^	int	htas;$/;"	m	struct:__anon10	file:
+htba	dmr/ht.c	/^	int	htba;$/;"	m	struct:__anon10	file:
+htbae	dmr/ht.c	/^	int	htbae;	\/* 11\/70 bus extension *\/$/;"	m	struct:__anon10	file:
+htck	dmr/ht.c	/^	int	htck;$/;"	m	struct:__anon10	file:
+htclose	dmr/ht.c	/^htclose(dev, flag)$/;"	f
+htcs1	dmr/ht.c	/^	int	htcs1;$/;"	m	struct:__anon10	file:
+htcs2	dmr/ht.c	/^	int	htcs2;$/;"	m	struct:__anon10	file:
+htdb	dmr/ht.c	/^	int	htdb;$/;"	m	struct:__anon10	file:
+htds	dmr/ht.c	/^	int	htds;$/;"	m	struct:__anon10	file:
+htdt	dmr/ht.c	/^	int	htdt;$/;"	m	struct:__anon10	file:
+hter	dmr/ht.c	/^	int	hter;$/;"	m	struct:__anon10	file:
+htfc	dmr/ht.c	/^	int	htfc;$/;"	m	struct:__anon10	file:
+htintr	dmr/ht.c	/^htintr()$/;"	f
+htmr	dmr/ht.c	/^	int	htmr;$/;"	m	struct:__anon10	file:
+htopen	dmr/ht.c	/^htopen(dev, flag)$/;"	f
+htphys	dmr/ht.c	/^htphys(dev)$/;"	f
+htread	dmr/ht.c	/^htread(dev)$/;"	f
+htsn	dmr/ht.c	/^	int	htsn;$/;"	m	struct:__anon10	file:
+htstart	dmr/ht.c	/^htstart()$/;"	f
+htstrategy	dmr/ht.c	/^htstrategy(abp)$/;"	f
+httab	dmr/bio.c	/^int	httab;$/;"	v
+httab	dmr/ht.c	/^struct	devtab	httab;$/;"	v	typeref:struct:devtab
+httc	dmr/ht.c	/^	int	httc;$/;"	m	struct:__anon10	file:
+htwc	dmr/ht.c	/^	int	htwc;$/;"	m	struct:__anon10	file:
+htwrite	dmr/ht.c	/^htwrite(dev)$/;"	f
+i_addr	ino.h	/^	int	i_addr[8];$/;"	m	struct:inode
+i_addr	inode.h	/^	int	i_addr[8];	\/* device addresses constituting file *\/$/;"	m	struct:inode
+i_atime	ino.h	/^	int	i_atime[2];$/;"	m	struct:inode
+i_count	inode.h	/^	char	i_count;	\/* reference count *\/$/;"	m	struct:inode
+i_dev	inode.h	/^	int	i_dev;		\/* device where inode resides *\/$/;"	m	struct:inode
+i_flag	inode.h	/^	char	i_flag;$/;"	m	struct:inode
+i_gid	ino.h	/^	char	i_gid;$/;"	m	struct:inode
+i_gid	inode.h	/^	char	i_gid;		\/* group of owner *\/$/;"	m	struct:inode
+i_lastr	inode.h	/^	int	i_lastr;	\/* last logical block read (for read-ahead) *\/$/;"	m	struct:inode
+i_mode	ino.h	/^	int	i_mode;$/;"	m	struct:inode
+i_mode	inode.h	/^	int	i_mode;$/;"	m	struct:inode
+i_mtime	ino.h	/^	int	i_mtime[2];$/;"	m	struct:inode
+i_nlink	ino.h	/^	char	i_nlink;$/;"	m	struct:inode
+i_nlink	inode.h	/^	char	i_nlink;	\/* directory entries *\/$/;"	m	struct:inode
+i_number	inode.h	/^	int	i_number;	\/* i number, 1-to-1 with device address *\/$/;"	m	struct:inode
+i_size0	ino.h	/^	char	i_size0;$/;"	m	struct:inode
+i_size0	inode.h	/^	char	i_size0;	\/* most significant of size *\/$/;"	m	struct:inode
+i_size1	ino.h	/^	char	*i_size1;$/;"	m	struct:inode
+i_size1	inode.h	/^	char	*i_size1;	\/* least sig *\/$/;"	m	struct:inode
+i_uid	ino.h	/^	char	i_uid;$/;"	m	struct:inode
+i_uid	inode.h	/^	char	i_uid;		\/* owner *\/$/;"	m	struct:inode
+ialloc	ken/alloc.c	/^ialloc(dev)$/;"	f
+ifree	ken/alloc.c	/^ifree(dev, ino)$/;"	f
+iget	ken/iget.c	/^iget(dev, ino)$/;"	f
+iinit	ken/alloc.c	/^iinit()$/;"	f
+incore	dmr/bio.c	/^incore(adev, blkno)$/;"	f
+info	dmr/tty.c	/^	char info[6];$/;"	m	struct:cblock	file:
+inode	ino.h	/^struct	inode$/;"	s
+inode	inode.h	/^struct	inode$/;"	s
+inode	inode.h	/^} inode[NINODE];$/;"	v	typeref:struct:inode
+input	conf/mkconf.c	/^input()$/;"	f
+inta	ken/sig.c	/^	int	inta[];$/;"	m	struct:__anon24	file:
+integ	param.h	/^	int	integ;$/;"	m	struct:__anon27
+iodone	dmr/bio.c	/^iodone(bp)$/;"	f
+iomove	ken/rdwri.c	/^iomove(bp, o, an, flag)$/;"	f
+iowait	dmr/bio.c	/^iowait(bp)$/;"	f
+ip_addr	ken/sig.c	/^	int	ip_addr;$/;"	m	struct:__anon25	file:
+ip_data	ken/sig.c	/^	int	ip_data;$/;"	m	struct:__anon25	file:
+ip_lock	ken/sig.c	/^	int	ip_lock;$/;"	m	struct:__anon25	file:
+ip_req	ken/sig.c	/^	int	ip_req;$/;"	m	struct:__anon25	file:
+ipc	ken/sig.c	/^} ipc;$/;"	v	typeref:struct:__anon25
+iput	ken/iget.c	/^iput(p)$/;"	f
+iq	dmr/vs.c	/^	struct	clist	iq;$/;"	m	struct:__anon22	typeref:struct:__anon22::clist	file:
+issig	ken/sig.c	/^issig()$/;"	f
+itrunc	ken/iget.c	/^itrunc(ip)$/;"	f
+iupdat	ken/iget.c	/^iupdat(p, tm)$/;"	f
+jflg	conf/m40.s	/^jflg:	.=.+1$/;"	l
+ka6	seg.h	/^int	*ka6;		\/* 11\/40 KISA6; 11\/45 KDSA6 *\/$/;"	v
+key	conf/mkconf.c	/^	int	key;$/;"	m	struct:tab	file:
+kill	ken/sys4.c	/^kill()$/;"	f
+kl11	dmr/kl.c	/^struct	tty kl11[NKL11+NDL11];$/;"	v	typeref:struct:tty
+klclose	dmr/kl.c	/^klclose(dev)$/;"	f
+klopen	dmr/kl.c	/^klopen(dev, flag)$/;"	f
+klrbuf	dmr/kl.c	/^	int klrbuf;$/;"	m	struct:klregs	file:
+klrcsr	dmr/kl.c	/^	int klrcsr;$/;"	m	struct:klregs	file:
+klread	dmr/kl.c	/^klread(dev)$/;"	f
+klregs	dmr/kl.c	/^struct klregs {$/;"	s	file:
+klrint	dmr/kl.c	/^klrint(dev)$/;"	f
+klsgtty	dmr/kl.c	/^klsgtty(dev, v)$/;"	f
+kltbuf	dmr/kl.c	/^	int kltbuf;$/;"	m	struct:klregs	file:
+kltcsr	dmr/kl.c	/^	int kltcsr;$/;"	m	struct:klregs	file:
+klwrite	dmr/kl.c	/^klwrite(dev)$/;"	f
+klxint	dmr/kl.c	/^klxint(dev)$/;"	f
+lbolt	systm.h	/^int	lbolt;			\/* time of day in 60th not in time *\/$/;"	v
+ldfps	conf/m45.s	/^ldfps	= 170100^tst$/;"	d
+link	ken/sys2.c	/^link()$/;"	f
+lks	systm.h	/^int	*lks;			\/* pointer to clock device *\/$/;"	v
+lobyte	param.h	/^	char	lobyte;$/;"	m	struct:__anon26
+lp11	dmr/lp.c	/^} lp11;$/;"	v	typeref:struct:__anon12
+lpbuf	dmr/lp.c	/^	int lpbuf;$/;"	m	struct:__anon11	file:
+lpcanon	dmr/lp.c	/^lpcanon(c)$/;"	f
+lpclose	dmr/lp.c	/^lpclose(dev, flag)$/;"	f
+lpint	dmr/lp.c	/^lpint()$/;"	f
+lpopen	dmr/lp.c	/^lpopen(dev, flag)$/;"	f
+lpoutput	dmr/lp.c	/^lpoutput(c)$/;"	f
+lpsr	dmr/lp.c	/^	int lpsr;$/;"	m	struct:__anon11	file:
+lpstart	dmr/lp.c	/^lpstart()$/;"	f
+lpwrite	dmr/lp.c	/^lpwrite()$/;"	f
+m_addr	ken/malloc.c	/^	char *m_addr;$/;"	m	struct:map	file:
+m_bufp	systm.h	/^	int	*m_bufp;	\/* pointer to superblock *\/$/;"	m	struct:mount
+m_dev	systm.h	/^	int	m_dev;		\/* device mounted *\/$/;"	m	struct:mount
+m_inodp	systm.h	/^	int	*m_inodp;	\/* pointer to mounted on inode *\/$/;"	m	struct:mount
+m_size	ken/malloc.c	/^	char *m_size;$/;"	m	struct:map	file:
+main	conf/mkconf.c	/^main()$/;"	f
+main	conf/sysfix.c	/^main(argc, argv)$/;"	f
+main	ken/main.c	/^main()$/;"	f
+maknode	ken/iget.c	/^maknode(mode)$/;"	f
+malloc	ken/malloc.c	/^malloc(mp, size)$/;"	f
+map	ken/malloc.c	/^struct map$/;"	s	file:
+mapalloc	dmr/bio.c	/^mapalloc(abp)$/;"	f
+mapfree	dmr/bio.c	/^mapfree(bp)$/;"	f
+maplock	dmr/bio.c	/^int	maplock;$/;"	v
+max	ken/rdwri.c	/^max(a, b)$/;"	f
+maxmem	systm.h	/^int	maxmem;			\/* actual max memory per process *\/$/;"	v
+mcc	dmr/lp.c	/^	int	mcc;$/;"	m	struct:__anon12	file:
+mfpd	conf/m45.s	/^mfpd	= 106500^tst$/;"	d
+mfpi	conf/m40.s	/^mfpi	= 6500^tst$/;"	d
+mfpi	conf/m45.s	/^mfpi	= 6500^tst$/;"	d
+mfree	ken/malloc.c	/^mfree(mp, size, aa)$/;"	f
+min	ken/rdwri.c	/^min(a, b)$/;"	f
+mknod	ken/sys2.c	/^mknod()$/;"	f
+mlc	dmr/lp.c	/^	int	mlc;$/;"	m	struct:__anon12	file:
+mmread	dmr/mem.c	/^mmread(dev)$/;"	f
+mmwrite	dmr/mem.c	/^mmwrite(dev)$/;"	f
+mount	systm.h	/^struct	mount$/;"	s
+mount	systm.h	/^} mount[NMOUNT];$/;"	v	typeref:struct:mount
+mpid	systm.h	/^int	mpid;			\/* generic for unique process id's *\/$/;"	v
+mtpd	conf/m45.s	/^mtpd	= 106600^tst$/;"	d
+mtpi	conf/m40.s	/^mtpi	= 6600^tst$/;"	d
+mtpi	conf/m45.s	/^mtpi	= 6600^tst$/;"	d
+name	conf/mkconf.c	/^	char	*name;$/;"	m	struct:tab	file:
+namei	ken/nami.c	/^namei(func, flag)$/;"	f
+nblkdev	conf.h	/^int	nblkdev;$/;"	v
+nblocks	dmr/hp.c	/^	char	*nblocks;$/;"	m	struct:__anon8	file:
+nblocks	dmr/rp.c	/^	char	*nblocks;$/;"	m	struct:__anon17	file:
+nchrdev	conf.h	/^int	nchrdev;$/;"	v
+ndh11	dmr/dhdm.c	/^int	ndh11;		\/* Set by dh.c to number of lines *\/$/;"	v
+newproc	ken/slp.c	/^newproc()$/;"	f
+nice	ken/sys4.c	/^nice()$/;"	f
+nodev	ken/subr.c	/^nodev()$/;"	f
+nosys	ken/trap.c	/^nosys()$/;"	f
+notavail	dmr/bio.c	/^notavail(bp)$/;"	f
+nseg	ken/main.c	/^nseg(n)$/;"	f
+nswap	systm.h	/^int	nswap;			\/* size of swap space *\/$/;"	v
+nulldev	ken/subr.c	/^nulldev()$/;"	f
+nullsys	ken/trap.c	/^nullsys()$/;"	f
+obuf	conf/sysfix.c	/^int	obuf[259];$/;"	v
+open	ken/sys2.c	/^open()$/;"	f
+open1	ken/sys2.c	/^open1(ip, mode, trf)$/;"	f
+openi	ken/fio.c	/^openi(ip, rw)$/;"	f
+oq	dmr/cat.c	/^	struct	clist	oq;$/;"	m	struct:__anon2	typeref:struct:__anon2::clist	file:
+oq	dmr/vs.c	/^	struct	clist	oq;$/;"	m	struct:__anon22	typeref:struct:__anon22::clist	file:
+owner	ken/fio.c	/^owner()$/;"	f
+p_addr	proc.h	/^	int	p_addr;		\/* address of swappable image *\/$/;"	m	struct:proc
+p_cpu	proc.h	/^	char	p_cpu;		\/* cpu usage for scheduling *\/$/;"	m	struct:proc
+p_flag	proc.h	/^	char	p_flag;$/;"	m	struct:proc
+p_nice	proc.h	/^	char	p_nice;		\/* nice for scheduling *\/$/;"	m	struct:proc
+p_pid	proc.h	/^	int	p_pid;		\/* unique process id *\/$/;"	m	struct:proc
+p_ppid	proc.h	/^	int	p_ppid;		\/* process id of parent *\/$/;"	m	struct:proc
+p_pri	proc.h	/^	char	p_pri;		\/* priority, negative is high *\/$/;"	m	struct:proc
+p_sig	proc.h	/^	char	p_sig;		\/* signal number sent to this process *\/$/;"	m	struct:proc
+p_size	proc.h	/^	int	p_size;		\/* size of swappable image (*64 bytes) *\/$/;"	m	struct:proc
+p_stat	proc.h	/^	char	p_stat;$/;"	m	struct:proc
+p_textp	proc.h	/^	int	*p_textp;	\/* pointer to text structure *\/$/;"	m	struct:proc
+p_time	proc.h	/^	char	p_time;		\/* resident time for scheduling *\/$/;"	m	struct:proc
+p_ttyp	proc.h	/^	int	p_ttyp;		\/* controlling tty *\/$/;"	m	struct:proc
+p_uid	proc.h	/^	char	p_uid;		\/* user id, used to direct tty signals *\/$/;"	m	struct:proc
+p_wchan	proc.h	/^	int	p_wchan;	\/* event process is awaiting *\/$/;"	m	struct:proc
+pad	filsys.h	/^	int	pad[50];$/;"	m	struct:filsys
+panic	ken/prf.c	/^panic(s)$/;"	f
+panicstr	ken/prf.c	/^char	*panicstr;$/;"	v
+partab	tty.h	/^char partab[];			\/* ASCII table: parity, character class *\/$/;"	v
+passc	ken/subr.c	/^passc(c)$/;"	f
+pc11	dmr/pc.c	/^struct pc11 {$/;"	s	file:
+pc11	dmr/pc.c	/^} pc11;$/;"	v	typeref:struct:pc11
+pcclose	dmr/pc.c	/^pcclose(dev, flag)$/;"	f
+pcin	dmr/pc.c	/^	struct	clist pcin;$/;"	m	struct:pc11	typeref:struct:pc11::clist	file:
+pcleader	dmr/pc.c	/^pcleader()$/;"	f
+pcopen	dmr/pc.c	/^pcopen(dev, flag)$/;"	f
+pcout	dmr/pc.c	/^	struct	clist pcout;$/;"	m	struct:pc11	typeref:struct:pc11::clist	file:
+pcoutput	dmr/pc.c	/^pcoutput(c)$/;"	f
+pcpbuf	dmr/pc.c	/^	int pcpbuf;$/;"	m	struct:__anon13	file:
+pcpcsr	dmr/pc.c	/^	int pcpcsr;$/;"	m	struct:__anon13	file:
+pcpint	dmr/pc.c	/^pcpint()$/;"	f
+pcrbuf	dmr/pc.c	/^	int pcrbuf;$/;"	m	struct:__anon13	file:
+pcrcsr	dmr/pc.c	/^	int pcrcsr;$/;"	m	struct:__anon13	file:
+pcread	dmr/pc.c	/^pcread()$/;"	f
+pcrint	dmr/pc.c	/^pcrint()$/;"	f
+pcstart	dmr/pc.c	/^pcstart()$/;"	f
+pcstate	dmr/pc.c	/^	int	pcstate;$/;"	m	struct:pc11	file:
+pcwrite	dmr/pc.c	/^pcwrite()$/;"	f
+physio	dmr/bio.c	/^physio(strat, abp, dev, rw)$/;"	f
+pipe	ken/pipe.c	/^pipe()$/;"	f
+piword	conf/m45.s	/^piword:$/;"	l
+plock	ken/pipe.c	/^plock(ip)$/;"	f
+prdev	ken/prf.c	/^prdev(str, dev)$/;"	f
+prele	ken/pipe.c	/^prele(ip)$/;"	f
+printf	ken/prf.c	/^printf(fmt,x1,x2,x3,x4,x5,x6,x7,x8,x9,xa,xb,xc)$/;"	f
+printn	ken/prf.c	/^printn(n, b)$/;"	f
+proc	proc.h	/^struct	proc$/;"	s
+proc	proc.h	/^} proc[NPROC];$/;"	v	typeref:struct:proc
+procxmt	ken/sig.c	/^procxmt()$/;"	f
+profil	ken/sys4.c	/^profil()$/;"	f
+psig	ken/sig.c	/^psig()$/;"	f
+psignal	ken/sig.c	/^psignal(p, sig)$/;"	f
+ptrace	ken/sig.c	/^ptrace()$/;"	f
+puke	conf/mkconf.c	/^puke(s, a)$/;"	f
+putchar	ken/prf.c	/^putchar(c)$/;"	f
+pword	conf/m40.s	/^pword:$/;"	l
+pword	conf/m45.s	/^pword:$/;"	l
+r	seg.h	/^	int	r[];$/;"	m	struct:__anon28
+rablock	systm.h	/^int	rablock;		\/* block to be read ahead *\/$/;"	v
+rbr	ken/prf.c	/^	int	rbr;$/;"	m	struct:__anon23	file:
+rbuf	conf/sysfix.c	/^int	rbuf[259];$/;"	v
+rdwr	ken/sys2.c	/^rdwr(mode)$/;"	f
+read	ken/sys2.c	/^read()$/;"	f
+readi	ken/rdwri.c	/^readi(aip)$/;"	f
+readp	ken/pipe.c	/^readp(fp)$/;"	f
+regloc	systm.h	/^char	regloc[];		\/* locs. of saved user registers (trap.c) *\/$/;"	v
+reset	conf/m40.s	/^reset	= 5$/;"	d
+reset	conf/m45.s	/^reset	= 5$/;"	d
+rexit	ken/sys1.c	/^rexit()$/;"	f
+rfba	dmr/rf.c	/^	int	rfba;$/;"	m	struct:__anon14	file:
+rfcs	dmr/rf.c	/^	int	rfcs;$/;"	m	struct:__anon14	file:
+rfda	dmr/rf.c	/^	int	rfda;$/;"	m	struct:__anon14	file:
+rfdae	dmr/rf.c	/^	int	rfdae;$/;"	m	struct:__anon14	file:
+rfintr	dmr/rf.c	/^rfintr()$/;"	f
+rfread	dmr/rf.c	/^rfread(dev)$/;"	f
+rfstart	dmr/rf.c	/^rfstart()$/;"	f
+rfstrategy	dmr/rf.c	/^rfstrategy(abp)$/;"	f
+rftab	dmr/rf.c	/^struct	devtab	rftab;$/;"	v	typeref:struct:devtab
+rfwc	dmr/rf.c	/^	int	rfwc;$/;"	m	struct:__anon14	file:
+rfwrite	dmr/rf.c	/^rfwrite(dev)$/;"	f
+rhsbuf	dmr/hs.c	/^struct	buf	rhsbuf;$/;"	v	typeref:struct:buf
+rhstart	dmr/bio.c	/^rhstart(bp, devloc, devblk, abae)$/;"	f
+rhtbuf	dmr/ht.c	/^struct	buf	rhtbuf;$/;"	v	typeref:struct:buf
+rkaddr	dmr/rk.c	/^rkaddr(bp)$/;"	f
+rkba	dmr/rk.c	/^	int rkba;$/;"	m	struct:__anon15	file:
+rkcs	dmr/rk.c	/^	int rkcs;$/;"	m	struct:__anon15	file:
+rkda	dmr/rk.c	/^	int rkda;$/;"	m	struct:__anon15	file:
+rkds	dmr/rk.c	/^	int rkds;$/;"	m	struct:__anon15	file:
+rker	dmr/rk.c	/^	int rker;$/;"	m	struct:__anon15	file:
+rkintr	dmr/rk.c	/^rkintr()$/;"	f
+rkread	dmr/rk.c	/^rkread(dev)$/;"	f
+rkstart	dmr/rk.c	/^rkstart()$/;"	f
+rkstrategy	dmr/rk.c	/^rkstrategy(abp)$/;"	f
+rktab	dmr/rk.c	/^struct	devtab	rktab;$/;"	v	typeref:struct:devtab
+rkwc	dmr/rk.c	/^	int rkwc;$/;"	m	struct:__anon15	file:
+rkwrite	dmr/rk.c	/^rkwrite(dev)$/;"	f
+rootdev	systm.h	/^int	rootdev;		\/* dev of root see conf.c *\/$/;"	v
+rootdir	systm.h	/^int	*rootdir;		\/* pointer to inode of root directory *\/$/;"	v
+rp_sizes	dmr/rp.c	/^} rp_sizes[] {$/;"	s	file:
+rpba	dmr/rp.c	/^	int	rpba;$/;"	m	struct:__anon16	file:
+rpca	dmr/rp.c	/^	int	rpca;$/;"	m	struct:__anon16	file:
+rpcs	dmr/rp.c	/^	int	rpcs;$/;"	m	struct:__anon16	file:
+rpda	dmr/rp.c	/^	int	rpda;$/;"	m	struct:__anon16	file:
+rpds	dmr/rp.c	/^	int	rpds;$/;"	m	struct:__anon16	file:
+rper	dmr/rp.c	/^	int	rper;$/;"	m	struct:__anon16	file:
+rpintr	dmr/rp.c	/^rpintr()$/;"	f
+rpphys	dmr/rp.c	/^rpphys(dev)$/;"	f
+rpread	dmr/rp.c	/^rpread(dev)$/;"	f
+rpstart	dmr/rp.c	/^rpstart()$/;"	f
+rpstrategy	dmr/rp.c	/^rpstrategy(abp)$/;"	f
+rptab	dmr/rp.c	/^struct	devtab	rptab;$/;"	v	typeref:struct:devtab
+rpwc	dmr/rp.c	/^	int	rpwc;$/;"	m	struct:__anon16	file:
+rpwrite	dmr/rp.c	/^rpwrite(dev)$/;"	f
+rrfbuf	dmr/rf.c	/^struct	buf	rrfbuf;$/;"	v	typeref:struct:buf
+rrkbuf	dmr/rk.c	/^struct	buf	rrkbuf;$/;"	v	typeref:struct:buf
+rrpbuf	dmr/rp.c	/^struct	buf	rrpbuf;$/;"	v	typeref:struct:buf
+rsr	ken/prf.c	/^	int	rsr;$/;"	m	struct:__anon23	file:
+rtmbuf	dmr/tm.c	/^struct	buf	rtmbuf;$/;"	v	typeref:struct:buf
+rtt	conf/m40.s	/^rtt	= 6$/;"	d
+rtt	conf/m45.s	/^rtt	= 6$/;"	d
+runin	systm.h	/^char	runin;			\/* scheduling flag *\/$/;"	v
+runout	systm.h	/^char	runout;			\/* scheduling flag *\/$/;"	v
+runrun	systm.h	/^char	runrun;			\/* scheduling flag *\/$/;"	v
+s_flock	filsys.h	/^	char	s_flock;	\/* lock during free list manipulation *\/$/;"	m	struct:filsys
+s_fmod	filsys.h	/^	char	s_fmod;		\/* super block modified flag *\/$/;"	m	struct:filsys
+s_free	filsys.h	/^	int	s_free[100];	\/* in core free blocks *\/$/;"	m	struct:filsys
+s_fsize	filsys.h	/^	int	s_fsize;	\/* size in blocks of entire volume *\/$/;"	m	struct:filsys
+s_ilock	filsys.h	/^	char	s_ilock;	\/* lock during I list manipulation *\/$/;"	m	struct:filsys
+s_inode	filsys.h	/^	int	s_inode[100];	\/* in core free I nodes *\/$/;"	m	struct:filsys
+s_isize	filsys.h	/^	int	s_isize;	\/* size in blocks of I list *\/$/;"	m	struct:filsys
+s_nfree	filsys.h	/^	int	s_nfree;	\/* number of in core free blocks (0-100) *\/$/;"	m	struct:filsys
+s_ninode	filsys.h	/^	int	s_ninode;	\/* number of in core I nodes (0-100) *\/$/;"	m	struct:filsys
+s_ronly	filsys.h	/^	char	s_ronly;	\/* mounted read-only flag *\/$/;"	m	struct:filsys
+s_time	filsys.h	/^	int	s_time[2];	\/* current date of last update *\/$/;"	m	struct:filsys
+saveps	conf/m45.s	/^saveps:	.=.+2$/;"	l
+sbreak	ken/sys1.c	/^sbreak()$/;"	f
+schar	ken/nami.c	/^schar()$/;"	f
+sched	ken/slp.c	/^sched()$/;"	f
+seek	ken/sys2.c	/^seek()$/;"	f
+setgid	ken/sys4.c	/^setgid()$/;"	f
+setpri	ken/slp.c	/^setpri(up)$/;"	f
+setreg	conf/m40.s	/^setreg:$/;"	l
+setrun	ken/slp.c	/^setrun(p)$/;"	f
+setuid	ken/sys4.c	/^setuid()$/;"	f
+sgtty	dmr/tty.c	/^sgtty(v)$/;"	f
+signal	ken/sig.c	/^signal(tp, sig)$/;"	f
+sleep	ken/slp.c	/^sleep(chan, pri)$/;"	f
+smount	ken/sys3.c	/^smount()$/;"	f
+spl	conf/m45.s	/^spl	= 230$/;"	d
+ssig	ken/sys4.c	/^ssig()$/;"	f
+sslep	ken/sys2.c	/^sslep()$/;"	f
+ssr	conf/m40.s	/^ssr:	.=.+6$/;"	l
+ssr	conf/m45.s	/^ssr:	.=.+6$/;"	l
+start	conf/m40.s	/^start:$/;"	l
+start	conf/m45.s	/^start:$/;"	l
+stat	ken/sys3.c	/^stat()$/;"	f
+stat1	ken/sys3.c	/^stat1(ip, ub)$/;"	f
+stfps	conf/m45.s	/^stfps	= 170200^tst$/;"	d
+stime	ken/sys4.c	/^stime()$/;"	f
+stk	conf/m45.s	/^stk:	0$/;"	l
+stop	ken/sig.c	/^stop()$/;"	f
+stty	dmr/tty.c	/^stty()$/;"	f
+suiword	conf/m45.s	/^suiword:$/;"	l
+sumount	ken/sys3.c	/^sumount()$/;"	f
+sureg	ken/main.c	/^sureg()$/;"	f
+suser	ken/fio.c	/^suser()$/;"	f
+suword	conf/m40.s	/^suword:$/;"	l
+suword	conf/m45.s	/^suword:$/;"	l
+swap	dmr/bio.c	/^swap(blkno, coreaddr, count, rdflg)$/;"	f
+swapdev	systm.h	/^int	swapdev;		\/* dev of swap see conf.c *\/$/;"	v
+swapmap	systm.h	/^int	swapmap[SMAPSIZ];	\/* space for swap allocation *\/$/;"	v
+swbuf	dmr/bio.c	/^struct	buf	swbuf;$/;"	v	typeref:struct:buf
+swplo	systm.h	/^int	swplo;			\/* block number of swap space *\/$/;"	v
+swtch	ken/slp.c	/^swtch()$/;"	f
+symsiz	conf/sysfix.c	/^int	symsiz;$/;"	v
+sync	ken/sys4.c	/^sync()$/;"	f
+syopen	dmr/sys.c	/^syopen(dev, flag)$/;"	f
+syread	dmr/sys.c	/^syread(dev)$/;"	f
+sysent	ken/trap.c	/^struct sysent	{$/;"	s	file:
+sysent	ken/trap.c	/^} sysent[64];$/;"	v	typeref:struct:sysent
+sysgtty	dmr/sys.c	/^sysgtty(dev, flag)$/;"	f
+syttyp	dmr/sys.c	/^syttyp()$/;"	f
+sywrite	dmr/sys.c	/^sywrite(dev)$/;"	f
+t00	conf/m40.s	/^t00:$/;"	l
+t01	conf/m40.s	/^t01:	\/ mov$/;"	l
+t02	conf/m40.s	/^t02:	\/ cmp$/;"	l
+t03	conf/m40.s	/^t03:	\/ bit$/;"	l
+t04	conf/m40.s	/^t04:	\/ bic$/;"	l
+t05	conf/m40.s	/^t05:	\/ bis$/;"	l
+t06	conf/m40.s	/^t06:	\/ add$/;"	l
+t07	conf/m40.s	/^t07:	\/ EIS$/;"	l
+t10	conf/m40.s	/^t10:$/;"	l
+t11	conf/m40.s	/^t11:	\/ movb$/;"	l
+t12	conf/m40.s	/^t12:	\/ cmpb$/;"	l
+t13	conf/m40.s	/^t13:	\/ bitb$/;"	l
+t14	conf/m40.s	/^t14:	\/ bicb$/;"	l
+t15	conf/m40.s	/^t15:	\/ bisb$/;"	l
+t16	conf/m40.s	/^t16:	\/ sub$/;"	l
+t17	conf/m40.s	/^t17:	\/ illegal$/;"	l
+t_addr	tty.h	/^	int	*t_addr;	\/* device address (register or startup fcn) *\/$/;"	m	struct:tty
+t_blkno	dmr/tm.c	/^char	*t_blkno[8];$/;"	v
+t_canq	tty.h	/^	struct	clist t_canq;	\/* input chars after erase and kill *\/$/;"	m	struct:tty	typeref:struct:tty::clist
+t_char	tty.h	/^	char	t_char;		\/* character temporary *\/$/;"	m	struct:tty
+t_col	tty.h	/^	char	t_col;		\/* printing column of device *\/$/;"	m	struct:tty
+t_delct	tty.h	/^	char	t_delct;	\/* number of delimiters in raw q *\/$/;"	m	struct:tty
+t_dev	tty.h	/^	int	t_dev;		\/* device name *\/$/;"	m	struct:tty
+t_erase	tty.h	/^	char	t_erase;	\/* erase character *\/$/;"	m	struct:tty
+t_flags	tty.h	/^	int	t_flags;	\/* mode, settable by stty call *\/$/;"	m	struct:tty
+t_kill	tty.h	/^	char	t_kill;		\/* kill character *\/$/;"	m	struct:tty
+t_nxrec	dmr/tm.c	/^char	*t_nxrec[8];$/;"	v
+t_openf	dmr/tm.c	/^char	t_openf[8];$/;"	v
+t_outq	tty.h	/^	struct	clist t_outq;	\/* output list to device *\/$/;"	m	struct:tty	typeref:struct:tty::clist
+t_rawq	tty.h	/^	struct	clist t_rawq;	\/* input chars right off device *\/$/;"	m	struct:tty	typeref:struct:tty::clist
+t_speeds	tty.h	/^	int	t_speeds;	\/* output+input line speed *\/$/;"	m	struct:tty
+t_state	tty.h	/^	char	t_state;	\/* internal state, not visible externally *\/$/;"	m	struct:tty
+tab	conf/mkconf.c	/^struct tab$/;"	s	file:
+table	conf/mkconf.c	/^} table[]$/;"	s	file:
+tbuf	conf/sysfix.c	/^int	tbuf[259];$/;"	v
+tcba	dmr/tc.c	/^	int	tcba;$/;"	m	struct:__anon18	file:
+tcclose	dmr/tc.c	/^tcclose(dev)$/;"	f
+tccm	dmr/tc.c	/^	int	tccm;$/;"	m	struct:__anon18	file:
+tccsr	dmr/tc.c	/^	int	tccsr;$/;"	m	struct:__anon18	file:
+tcdt	dmr/tc.c	/^	int	tcdt;$/;"	m	struct:__anon18	file:
+tcintr	dmr/tc.c	/^tcintr()$/;"	f
+tcommand	dmr/tm.c	/^tcommand(unit, com)$/;"	f
+tcper	dmr/tc.c	/^char	tcper[8];$/;"	v
+tcstart	dmr/tc.c	/^tcstart()$/;"	f
+tcstrategy	dmr/tc.c	/^tcstrategy(abp)$/;"	f
+tctab	dmr/tc.c	/^struct	devtab	tctab;$/;"	v	typeref:struct:devtab
+tcwc	dmr/tc.c	/^	int	tcwc;$/;"	m	struct:__anon18	file:
+text	text.h	/^struct text$/;"	s
+text	text.h	/^} text[NTEXT];$/;"	v	typeref:struct:text
+time	systm.h	/^int	time[2];		\/* time in sec from 1970 *\/$/;"	v
+timeout	ken/clock.c	/^timeout(fun, arg, tim)$/;"	f
+times	ken/sys4.c	/^times()$/;"	f
+tmba	dmr/tm.c	/^	int tmba;$/;"	m	struct:__anon19	file:
+tmbc	dmr/tm.c	/^	int tmbc;$/;"	m	struct:__anon19	file:
+tmclose	dmr/tm.c	/^tmclose(dev, flag)$/;"	f
+tmcs	dmr/tm.c	/^	int tmcs;$/;"	m	struct:__anon19	file:
+tmdb	dmr/tm.c	/^	int tmdb;$/;"	m	struct:__anon19	file:
+tmer	dmr/tm.c	/^	int tmer;$/;"	m	struct:__anon19	file:
+tmintr	dmr/tm.c	/^tmintr()$/;"	f
+tmopen	dmr/tm.c	/^tmopen(dev, flag)$/;"	f
+tmphys	dmr/tm.c	/^tmphys(dev)$/;"	f
+tmrd	dmr/tm.c	/^	int tmrd;$/;"	m	struct:__anon19	file:
+tmread	dmr/tm.c	/^tmread(dev)$/;"	f
+tmstart	dmr/tm.c	/^tmstart()$/;"	f
+tmstrategy	dmr/tm.c	/^tmstrategy(abp)$/;"	f
+tmtab	dmr/bio.c	/^int	tmtab;$/;"	v
+tmtab	dmr/tm.c	/^struct	devtab	tmtab;$/;"	v	typeref:struct:devtab
+tmwrite	dmr/tm.c	/^tmwrite(dev)$/;"	f
+tout	systm.h	/^int	tout[2];		\/* time of day of next sleep *\/$/;"	v
+trap	conf/m40.s	/^trap:$/;"	l
+trap	conf/m45.s	/^trap:$/;"	l
+trap	ken/trap.c	/^trap(dev, sp, r1, nps, r0, pc, ps)$/;"	f
+trap1	ken/trap.c	/^trap1(f)$/;"	f
+trksec	dmr/hp.c	94;"	d	file:
+trksec	dmr/rp.c	61;"	d	file:
+ttrbuf	dmr/tty.c	/^	int ttrbuf;$/;"	m	struct:__anon20	file:
+ttrcsr	dmr/tty.c	/^	int ttrcsr;$/;"	m	struct:__anon20	file:
+ttread	dmr/tty.c	/^ttread(atp)$/;"	f
+ttrstrt	dmr/tty.c	/^ttrstrt(atp)$/;"	f
+ttstart	dmr/tty.c	/^ttstart(atp)$/;"	f
+tttbuf	dmr/tty.c	/^	int tttbuf;$/;"	m	struct:__anon20	file:
+tttcsr	dmr/tty.c	/^	int tttcsr;$/;"	m	struct:__anon20	file:
+ttwrite	dmr/tty.c	/^ttwrite(atp)$/;"	f
+tty	tty.h	/^struct tty$/;"	s
+ttyinput	dmr/tty.c	/^ttyinput(ac, atp)$/;"	f
+ttyoutput	dmr/tty.c	/^ttyoutput(ac, tp)$/;"	f
+ttystty	dmr/tty.c	/^ttystty(atp, av)$/;"	f
+txtrel	conf/sysfix.c	/^int	txtrel	8192;$/;"	v
+txtsiz	conf/sysfix.c	/^int	txtsiz;$/;"	v
+u	user.h	/^} u;$/;"	v	typeref:struct:user
+u0	conf/m40.s	/^u0:	\/ jmp, swab$/;"	l
+u1	conf/m40.s	/^u1:	\/ br$/;"	l
+u2	conf/m40.s	/^u2:	\/ br$/;"	l
+u3	conf/m40.s	/^u3:	\/ br$/;"	l
+u4	conf/m40.s	/^u4:	\/ jsr$/;"	l
+u5	conf/m40.s	/^u5:	\/ single op$/;"	l
+u6	conf/m40.s	/^u6:	\/ single op, m[tf]pi, sxt, illegal$/;"	l
+u7	conf/m40.s	/^u7:	\/ illegal$/;"	l
+u_ar0	user.h	/^	int	*u_ar0;			\/* address of users saved R0 *\/$/;"	m	struct:user
+u_arg	user.h	/^	int	u_arg[5];		\/* arguments to current system call *\/$/;"	m	struct:user
+u_base	user.h	/^	char	*u_base;		\/* base address for IO *\/$/;"	m	struct:user
+u_cdir	user.h	/^	int	*u_cdir;		\/* pointer to inode of current directory *\/$/;"	m	struct:user
+u_count	user.h	/^	char	*u_count;		\/* bytes remaining for IO *\/$/;"	m	struct:user
+u_cstime	user.h	/^	int	u_cstime[2];		\/* sum of childs' stimes *\/$/;"	m	struct:user
+u_cutime	user.h	/^	int	u_cutime[2];		\/* sum of childs' utimes *\/$/;"	m	struct:user
+u_dbuf	user.h	/^	char	u_dbuf[DIRSIZ];		\/* current pathname component *\/$/;"	m	struct:user
+u_dent	user.h	/^	} u_dent;$/;"	m	struct:user	typeref:struct:user::__anon29
+u_dirp	user.h	/^	char	*u_dirp;		\/* current pointer to inode *\/$/;"	m	struct:user
+u_dsize	user.h	/^	int	u_dsize;		\/* data size (*64) *\/$/;"	m	struct:user
+u_error	user.h	/^	char	u_error;		\/* return error code *\/$/;"	m	struct:user
+u_fsav	user.h	/^	int	u_fsav[25];		\/* save fp registers *\/$/;"	m	struct:user
+u_gid	user.h	/^	char	u_gid;			\/* effective group id *\/$/;"	m	struct:user
+u_ino	user.h	/^		int	u_ino;$/;"	m	struct:user::__anon29
+u_intflg	user.h	/^	char	u_intflg;		\/* catch intr from sys *\/$/;"	m	struct:user
+u_name	user.h	/^		char	u_name[DIRSIZ];$/;"	m	struct:user::__anon29
+u_offset	user.h	/^	char	*u_offset[2];		\/* offset in file for IO *\/$/;"	m	struct:user
+u_ofile	user.h	/^	int	u_ofile[NOFILE];	\/* pointers to file structures of open files *\/$/;"	m	struct:user
+u_pdir	user.h	/^	int	*u_pdir;		\/* inode of parent directory of dirp *\/$/;"	m	struct:user
+u_procp	user.h	/^	int	u_procp;		\/* pointer to proc structure *\/$/;"	m	struct:user
+u_prof	user.h	/^	int	u_prof[4];		\/* profile arguments *\/$/;"	m	struct:user
+u_qsav	user.h	/^	int	u_qsav[2];		\/* label variable for quits and interrupts *\/$/;"	m	struct:user
+u_rgid	user.h	/^	char	u_rgid;			\/* real group id *\/$/;"	m	struct:user
+u_rsav	user.h	/^	int	u_rsav[2];		\/* save r5,r6 when exchanging stacks *\/$/;"	m	struct:user
+u_ruid	user.h	/^	char	u_ruid;			\/* real user id *\/$/;"	m	struct:user
+u_segflg	user.h	/^	char	u_segflg;		\/* flag for IO; user or kernel space *\/$/;"	m	struct:user
+u_sep	user.h	/^	int	u_sep;			\/* flag for I and D separation *\/$/;"	m	struct:user
+u_signal	user.h	/^	int	u_signal[NSIG];		\/* disposition of signals *\/$/;"	m	struct:user
+u_ssav	user.h	/^	int	u_ssav[2];		\/* label variable for swapping *\/$/;"	m	struct:user
+u_ssize	user.h	/^	int	u_ssize;		\/* stack size (*64) *\/$/;"	m	struct:user
+u_stime	user.h	/^	int	u_stime;		\/* this process system time *\/$/;"	m	struct:user
+u_tsize	user.h	/^	int	u_tsize;		\/* text size (*64) *\/$/;"	m	struct:user
+u_uid	user.h	/^	char	u_uid;			\/* effective user id *\/$/;"	m	struct:user
+u_uisa	user.h	/^	int	u_uisa[16];		\/* prototype of segmentation addresses *\/$/;"	m	struct:user
+u_uisd	user.h	/^	int	u_uisd[16];		\/* prototype of segmentation descriptors *\/$/;"	m	struct:user
+u_utime	user.h	/^	int	u_utime;		\/* this process user time *\/$/;"	m	struct:user
+uchar	ken/nami.c	/^uchar()$/;"	f
+ufalloc	ken/fio.c	/^ufalloc()$/;"	f
+unlink	ken/sys4.c	/^unlink()$/;"	f
+update	ken/alloc.c	/^update()$/;"	f
+updlock	systm.h	/^int	updlock;		\/* lock for sync *\/$/;"	v
+user	user.h	/^struct user$/;"	s
+usize	conf/m40.s	/^usize	= 16.$/;"	d
+usize	conf/m45.s	/^usize	= 16.$/;"	d
+vs	dmr/vs.c	/^} vs;$/;"	v	typeref:struct:__anon22
+vschar	dmr/vs.c	/^vschar(c)$/;"	f
+vsclose	dmr/vs.c	/^vsclose(dev)$/;"	f
+vsopen	dmr/vs.c	/^vsopen(dev)$/;"	f
+vsrbuf	dmr/vs.c	/^	int	vsrbuf;$/;"	m	struct:__anon21	file:
+vsrcsr	dmr/vs.c	/^	int	vsrcsr;$/;"	m	struct:__anon21	file:
+vsread	dmr/vs.c	/^vsread(dev)$/;"	f
+vsrintr	dmr/vs.c	/^vsrintr()$/;"	f
+vswrite	dmr/vs.c	/^vswrite(dev)$/;"	f
+vsxbuf	dmr/vs.c	/^	int	vsxbuf;$/;"	m	struct:__anon21	file:
+vsxcsr	dmr/vs.c	/^	int	vsxcsr;$/;"	m	struct:__anon21	file:
+vsxintr	dmr/vs.c	/^vsxintr()$/;"	f
+vtclose	dmr/vt.c	/^vtclose()$/;"	f
+vtflag	dmr/vt.c	/^int	vtflag;$/;"	v
+vtintr	dmr/vt.c	/^vtintr()$/;"	f
+vtopen	dmr/vt.c	/^vtopen(dev, flag)$/;"	f
+vtreg	dmr/vt.c	/^struct vtreg {$/;"	s	file:
+vtwrite	dmr/vt.c	/^vtwrite()$/;"	f
+wait	conf/m40.s	/^wait	= 1$/;"	d
+wait	conf/m45.s	/^wait	= 1$/;"	d
+wait	ken/sys1.c	/^wait()$/;"	f
+wakeup	ken/slp.c	/^wakeup(chan)$/;"	f
+wdir	ken/iget.c	/^wdir(ip)$/;"	f
+wflushtty	dmr/tty.c	/^wflushtty(atp)$/;"	f
+write	ken/sys2.c	/^write()$/;"	f
+writei	ken/rdwri.c	/^writei(aip)$/;"	f
+writep	ken/pipe.c	/^writep(fp)$/;"	f
+x_caddr	text.h	/^	int	x_caddr;	\/* core address, if loaded *\/$/;"	m	struct:text
+x_ccount	text.h	/^	char	x_ccount;	\/* number of loaded references *\/$/;"	m	struct:text
+x_count	text.h	/^	char	x_count;	\/* reference count *\/$/;"	m	struct:text
+x_daddr	text.h	/^	int	x_daddr;	\/* disk address of segment *\/$/;"	m	struct:text
+x_iptr	text.h	/^	int	*x_iptr;	\/* inode of prototype *\/$/;"	m	struct:text
+x_size	text.h	/^	int	x_size;		\/* size (*64) *\/$/;"	m	struct:text
+xalloc	ken/text.c	/^xalloc(ip)$/;"	f
+xbr	ken/prf.c	/^	int	xbr;$/;"	m	struct:__anon23	file:
+xccdec	ken/text.c	/^xccdec(xp)$/;"	f
+xfree	ken/text.c	/^xfree()$/;"	f
+xsr	ken/prf.c	/^	int	xsr;$/;"	m	struct:__anon23	file:
+xswap	ken/text.c	/^xswap(p, ff, os)$/;"	f
